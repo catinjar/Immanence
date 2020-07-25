@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0c5d2211da3f2fc479a1b84ea55b229e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerProgress: {fileID: 11400000, guid: 860fcee8e65ebe045ab3865916d1e222, type: 2}
+  - mouseMode: {fileID: 11400000, guid: 741f2c1d4b464644cb7ea9fd8e5d393b, type: 2}
+  - playerState: {fileID: 11400000, guid: 2e7aa3e199255924dac5c54267b8e325, type: 2}
+  - selectedItem: {fileID: 11400000, guid: 656bede105f679149b9c173007a97c99, type: 2}
+  - nextReaction: {fileID: 11400000, guid: ed2bd486a232f584f8471c20a74fd9db, type: 2}
+  - messageManager: {fileID: 11400000, guid: 7c4833725780be740afe3b53d063773d, type: 2}
+  - textManager: {fileID: 11400000, guid: f92267d1c6c23c44c9f14402ddbf9219, type: 2}
+  - phoneState: {fileID: 11400000, guid: d4297120a7a56854d95c78664d9a09ff, type: 2}
+  - contactsManager: {fileID: 11400000, guid: 21be6df6ea79d3944ad9e0657faba68e, type: 2}
+  - twitterManager: {fileID: 11400000, guid: a377c0ad63dcc1248be68ec8475d4a5e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

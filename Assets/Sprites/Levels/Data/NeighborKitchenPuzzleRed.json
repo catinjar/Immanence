@@ -1,0 +1,115 @@
+{ "frames": {
+   "NeighborKitchenPuzzleRed (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 160, "h": 80 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleRed (Door).ase": {
+    "frame": { "x": 244, "y": 0, "w": 3, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 157, "y": 28, "w": 3, "h": 55 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleRed (Table).ase": {
+    "frame": { "x": 160, "y": 31, "w": 41, "h": 37 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 76, "y": 46, "w": 41, "h": 37 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleRed (Chair1).ase": {
+    "frame": { "x": 201, "y": 31, "w": 14, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 63, "y": 54, "w": 14, "h": 30 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleRed (Chair2).ase": {
+    "frame": { "x": 220, "y": 55, "w": 14, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 114, "y": 53, "w": 14, "h": 30 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleRed (Lamp).ase": {
+    "frame": { "x": 247, "y": 0, "w": 9, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 78, "y": 7, "w": 9, "h": 11 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleRed (Switcher).ase": {
+    "frame": { "x": 247, "y": 11, "w": 2, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 120, "y": 53, "w": 2, "h": 3 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleRed (Back).ase": {
+    "frame": { "x": 160, "y": 68, "w": 60, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 36, "w": 60, "h": 25 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleRed (Kitchen1).ase": {
+    "frame": { "x": 160, "y": 0, "w": 60, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 52, "w": 60, "h": 31 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleRed (Kitchen2).ase": {
+    "frame": { "x": 0, "y": 80, "w": 61, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 15, "w": 61, "h": 22 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleRed (Clock).ase": {
+    "frame": { "x": 234, "y": 65, "w": 11, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 90, "y": 21, "w": 11, "h": 11 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleRed (Microwave).ase": {
+    "frame": { "x": 234, "y": 55, "w": 18, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 50, "w": 18, "h": 10 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleRed (Fridge).ase": {
+    "frame": { "x": 220, "y": 0, "w": 24, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 131, "y": 28, "w": 24, "h": 55 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\NeighborKitchenPuzzleRed.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1"
+ }
+}

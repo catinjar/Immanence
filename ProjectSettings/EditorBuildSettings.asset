@@ -1,0 +1,299 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Startup1.unity
+    guid: 1127b7a9e0074dd478cff6029f66dadc
+  - enabled: 1
+    path: Assets/Scenes/Logo.unity
+    guid: 129ce826a4545924c8753da5bc1d48da
+  - enabled: 1
+    path: Assets/Scenes/Startup2.unity
+    guid: 122d7ee121badf54aba4848c6f03f7c2
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 52c93adf1e893134580b294f904ba68e
+  - enabled: 1
+    path: Assets/Scenes/Chapter0-Intro/Intro1.unity
+    guid: a8e6e6ec37618254e910c40917b9fc91
+  - enabled: 1
+    path: Assets/Scenes/Chapter0-Intro/Intro2.unity
+    guid: 834cb42eb0a364c4c860285f314b0bcc
+  - enabled: 1
+    path: Assets/Scenes/Chapter0-Intro/Intro3.unity
+    guid: 0b6e852ffc319f544a4a4c33bc50834a
+  - enabled: 1
+    path: Assets/Scenes/Chapter0-Intro/Intro4.unity
+    guid: d7e3e71a6ce129741843bcb2f02dd3e2
+  - enabled: 1
+    path: Assets/Scenes/Chapter0-Intro/Childhood1.unity
+    guid: 3cce76a801c5b1b4aaba04e8a81a668d
+  - enabled: 1
+    path: Assets/Scenes/Chapter0-Intro/Childhood2.unity
+    guid: b479d5baf9961df46854e48c41345d5b
+  - enabled: 1
+    path: Assets/Scenes/Chapter0-Intro/Childhood3.unity
+    guid: 8dfd10ed597bc2448af1c816ffa22319
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/Neighbor/NeighborRoom.unity
+    guid: a803f7e1cc844ba4bb26912ca3b438bf
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/Neighbor/NeighborBathroom.unity
+    guid: 6dc27aa8527811d498bb9fe99e17793b
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/Neighbor/NeighborKitchen.unity
+    guid: 09127c3ba057f0f46a655ec96ad5284b
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/Neighbor/NeighborCorridor.unity
+    guid: daa28e58aad8432418f6e7c04e03634c
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/House/HouseLevel1.unity
+    guid: ba09d8c0e2285584eb41ff41a933e827
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/House/HouseLevel2.unity
+    guid: 373eacf134c6cb4468d736e36e13d12e
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/House/HouseLevel3.unity
+    guid: df2fb2b35c46c4448a03ce3555847732
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/Guy/GuyBathroom.unity
+    guid: cd893d11105ad1440b9631a4a77af4e4
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/Guy/GuyCorridor.unity
+    guid: 9d9be768f0863a943a67797ad6b964b5
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/Guy/GuyKitchen.unity
+    guid: 723de8d44b7103c41a645118740c7155
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/Guy/GuyRoom.unity
+    guid: 5762e8970bbed384ab0efc89d0277177
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/Man/ManBathroom.unity
+    guid: c2b350f1ceea29b4bb17a159aea8b3e1
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/Man/ManCorridor.unity
+    guid: 0b13f4dce5065884d99163cb67a8735a
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/Man/ManKitchen.unity
+    guid: c7d280f8c2e22ac409ded6e8ebb64e99
+  - enabled: 1
+    path: Assets/Scenes/Chapter1-Home/Man/ManRoom.unity
+    guid: d28ab0db136e85544a71af5f00d66c6c
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/RGBPuzzle/Loading.unity
+    guid: 3f3a2a411ae498a40aebe0c62ff28deb
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/RGBPuzzle/NeighborRoomPuzzle.unity
+    guid: e4add71eca438d548a1a6f8fb7980aeb
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/RGBPuzzle/NeighborCorridorPuzzle.unity
+    guid: 4d8c49d6d2e0a6640ab72cc226ab64f9
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/RGBPuzzle/NeighborBathroomPuzzle.unity
+    guid: 2419f26fd1ec35b4b9c6f45c1c455d27
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/RGBPuzzle/NeighborKitchenPuzzle.unity
+    guid: 7aac3c9bfc4db944f8542c69cd1a6738
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/RGBPuzzle/LongCorridor.unity
+    guid: 9f2a5f54a2d229344843478f4b319d70
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/RGBPuzzle/VideoTransition1.unity
+    guid: 320455aff7695e7418e03e1a4de2f182
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/VideoEditorPuzzle/VideoEditorPuzzle.unity
+    guid: f18ba12072a4c7c49886a0e10a2f4df4
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/VideoEditorPuzzle/FirstClip.unity
+    guid: d024601f7bc491040a7042c951a2329a
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/VideoEditorPuzzle/SecondClip.unity
+    guid: 3c4557c006a190b4182be1d7b05cd454
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/VideoEditorPuzzle/ThirdClip.unity
+    guid: a690fa7508801b640854b8b171b89aed
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/VideoEditorPuzzle/GetClip.unity
+    guid: e48240db5c93b554b8ec4f6c17d0aa20
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/VideoEditorPuzzle/CandlesClip.unity
+    guid: eaace38ea8e24cd4ca5d39c99ab35d0d
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/VideoEditorPuzzle/VideoTransition2.unity
+    guid: b7e1a0630f4fd7f47b970b7884105b7f
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/VideoEditorPuzzle/LastClip.unity
+    guid: d9427d6f81f6e434badaff6ae4800ac5
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/RoguelikePuzzle/RoguelikePuzzle.unity
+    guid: ce6e00b4b98e66b45a2a16d081088eda
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/AfterVideo.unity
+    guid: a39c8fa6246d24640bfab89f76650743
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/HospitalCorridor.unity
+    guid: 5265fc05222fb6141a7c01a9146ac965
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/HospitalRoom.unity
+    guid: 28a90a0399e3d3b48b55f54b7c4e0212
+  - enabled: 1
+    path: Assets/Scenes/Chapter2-VideoDream/AfterHospital.unity
+    guid: 24f83d3ee2fddc2459edf673f6d85e46
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Street1.unity
+    guid: b8cbff32c7eadbd4e8fcfbcfbc536d9e
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/TalkRoomCutscene.unity
+    guid: 16d1bce6f7d71504e89572b5b42c61fa
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/LastSupper.unity
+    guid: 485e85841ec82984794fa934378a7af6
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/TalkRoom.unity
+    guid: ec7a093a91e0c824f9628fc81a3d08f1
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/Class11.unity
+    guid: 8ff049387b2ced14390058d1ec65d963
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/Class12.unity
+    guid: 555260836669dbf4b94fc09051149408
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/Class13.unity
+    guid: b56c735ff9005904592a221c3a36590c
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/Class14.unity
+    guid: dc9a84004b3b63a4987ff100896dd5d8
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/Class21.unity
+    guid: 8e982e082c88cbc4e987643577b8c3c6
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/Class22.unity
+    guid: 3649d965938de12439b53e50e2ee7a87
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/Class23.unity
+    guid: ada812797985d1c41b895b8484981c92
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/Class24.unity
+    guid: ea352c30b83169248bdcf391cd8b52cc
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/UniLevel1.unity
+    guid: 51658346125349440ac196da8faa28cc
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Uni/UniLevel2.unity
+    guid: 0e0384813b2eb8d4ca81055a1621c268
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/NyctophiliaHome/Balcony.unity
+    guid: 61b4226a8537da7459fada9132fc1b50
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/NyctophiliaHome/HomeLevel1.unity
+    guid: e19e9707476a54a418d44666f2847271
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/NyctophiliaHome/HomeLevel2.unity
+    guid: d1f7dac576be26c49aac44880ec9db7d
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/NyctophiliaHome/Room11.unity
+    guid: 918410e9891660f4ba1ce05b751b7d14
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/NyctophiliaHome/Room12.unity
+    guid: b0d659ff1a073664aa24bff9fd7d6f89
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/NyctophiliaHome/Room13.unity
+    guid: 88861ff89efecbe498824162ce81b6e5
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/NyctophiliaHome/Room14.unity
+    guid: 05bf894218f19ea4cba60184a6846360
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/NyctophiliaHome/Room21.unity
+    guid: f5899204ca538844a930bbdff97cccbe
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/NyctophiliaHome/Room22.unity
+    guid: 1545a8f4ddb78c0489df2545994cee1d
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/NyctophiliaHome/Room23.unity
+    guid: f9d3c435a80750443a6425ff38037b57
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/NyctophiliaHome/Room24.unity
+    guid: 35db654225df27142b17ea0f3bc9111a
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/NyctophiliaHome/RedMoon.unity
+    guid: 9ff69644cae67f3428addf998f22b94c
+  - enabled: 1
+    path: Assets/Scenes/Chapter3-University/Street2.unity
+    guid: 22e8771a9b1dd44429a08b4403b180de
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/Museum.unity
+    guid: fa5f5b369baa9914f8d4fa9b9c7dc6f2
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/CorridorIGME.unity
+    guid: 6236c81b9280451429f5bdbfe0577178
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/Elevator.unity
+    guid: f7d8f32ade39f7343bd5c612cf2d075b
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/Immanence.unity
+    guid: 0062592efff91f04a89bd755253003fb
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/SilentHill/Room1.unity
+    guid: 8248e1399544a6a4391dd024513c472c
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/SilentHill/Room2.unity
+    guid: 573b0fa2e186c7f4bbd5f0b708834476
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/SilentHill/Room3.unity
+    guid: 3c238da15e5cfc74586ba2bf9cb980c8
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/SilentHill/Room4.unity
+    guid: cb0d75aca28bb214aa578c4719010efb
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/SilentHill/Room5.unity
+    guid: 96e836a94799d3148bf12de78dc71e18
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/SilentHill/Room6.unity
+    guid: 84140805c76c7b24592a24716edb5d9e
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/SilentHill/Room7.unity
+    guid: 1e7c18920c116fc4faca8b45deeb546f
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/SilentHill/Room8.unity
+    guid: 5542905e768b2a74199f8260603405e2
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/SilentHill/Room9.unity
+    guid: 16345158c7a2f0f4e86f074e4ecb8ae5
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/SilentHill/Room10.unity
+    guid: c7fe0d7bfef6f1a48a3f3410143a6037
+  - enabled: 1
+    path: Assets/Scenes/Chapter4-IGME/SilentHill/Room11a.unity
+    guid: be31b6e5465e96145a9f7ca0d1221dc7
+  - enabled: 1
+    path: Assets/Scenes/Chapter5-Finale/Credits.unity
+    guid: a94b56b3982c31145ba8eb8a54a7d8c0
+  - enabled: 1
+    path: Assets/Scenes/Chapter5-Finale/Final.unity
+    guid: e353f035c06d1544eaf3cfaaddf32545
+  - enabled: 1
+    path: Assets/Scenes/Chapter5-Finale/FinalCorridor1.unity
+    guid: 60b82b92516226c4197135197b63185c
+  - enabled: 1
+    path: Assets/Scenes/Chapter5-Finale/FinalCorridor2.unity
+    guid: be6e2e5abafa1b143abdafb868552978
+  - enabled: 1
+    path: Assets/Scenes/Chapter5-Finale/FinalFinal.unity
+    guid: 651db81762a92e445b499c460777a980
+  - enabled: 1
+    path: Assets/Scenes/Chapter5-Finale/FinalHospital.unity
+    guid: 29d85d2b08d227a42a10f1d4d2fac926
+  - enabled: 1
+    path: Assets/Scenes/Chapter5-Finale/FinalNeighborCorridor.unity
+    guid: 62c2486fa03e4d14cbd9ff74de8fee3d
+  - enabled: 1
+    path: Assets/Scenes/Chapter5-Finale/Epilogue.unity
+    guid: 4ad2508bda7dd87409fe04b3e9ab6f4e
+  - enabled: 1
+    path: Assets/Scenes/LanguageSelectionMenu.unity
+    guid: df55d3d8b842d554b9ff74060d61018d
+  m_configObjects: {}

@@ -1,0 +1,99 @@
+{ "frames": {
+   "GuyCorridor (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 160, "h": 80 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "GuyCorridor (Door1).ase": {
+    "frame": { "x": 247, "y": 0, "w": 3, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 28, "w": 3, "h": 55 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "GuyCorridor (Door2).ase": {
+    "frame": { "x": 250, "y": 0, "w": 3, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 157, "y": 28, "w": 3, "h": 55 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "GuyCorridor (Door3).ase": {
+    "frame": { "x": 198, "y": 0, "w": 32, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 40, "y": 26, "w": 32, "h": 57 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "GuyCorridor (Door4).ase": {
+    "frame": { "x": 160, "y": 0, "w": 38, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 92, "y": 26, "w": 38, "h": 57 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "GuyCorridor (Switcher).ase": {
+    "frame": { "x": 253, "y": 14, "w": 2, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 51, "w": 2, "h": 3 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "GuyCorridor (Phone).ase": {
+    "frame": { "x": 230, "y": 41, "w": 4, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 41, "w": 4, "h": 8 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "GuyCorridor (Rack).ase": {
+    "frame": { "x": 230, "y": 0, "w": 17, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 41, "w": 17, "h": 20 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "GuyCorridor (Dog).ase": {
+    "frame": { "x": 234, "y": 41, "w": 10, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 24, "y": 81, "w": 10, "h": 2 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "GuyCorridor (Picture).ase": {
+    "frame": { "x": 230, "y": 20, "w": 15, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 76, "y": 29, "w": 15, "h": 21 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "GuyCorridor (Lamp).ase": {
+    "frame": { "x": 253, "y": 0, "w": 3, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 82, "y": 7, "w": 3, "h": 14 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.2-x64",
+  "image": "Images\\GuyCorridor.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1"
+ }
+}

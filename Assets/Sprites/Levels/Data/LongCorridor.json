@@ -1,0 +1,67 @@
+{ "frames": {
+   "LongCorridor (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 480, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 480, "h": 80 },
+    "sourceSize": { "w": 480, "h": 90 },
+    "duration": 100
+   },
+   "LongCorridor (Lamp1).ase": {
+    "frame": { "x": 79, "y": 80, "w": 16, "h": 52 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 52, "y": 7, "w": 16, "h": 52 },
+    "sourceSize": { "w": 480, "h": 90 },
+    "duration": 100
+   },
+   "LongCorridor (Lamp2).ase": {
+    "frame": { "x": 480, "y": 66, "w": 28, "h": 42 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 97, "y": 7, "w": 28, "h": 42 },
+    "sourceSize": { "w": 480, "h": 90 },
+    "duration": 100
+   },
+   "LongCorridor (Lamp3).ase": {
+    "frame": { "x": 480, "y": 0, "w": 18, "h": 66 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 150, "y": 6, "w": 18, "h": 66 },
+    "sourceSize": { "w": 480, "h": 90 },
+    "duration": 100
+   },
+   "LongCorridor (Lamp4).ase": {
+    "frame": { "x": 38, "y": 80, "w": 41, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 186, "y": 7, "w": 41, "h": 48 },
+    "sourceSize": { "w": 480, "h": 90 },
+    "duration": 100
+   },
+   "LongCorridor (Lamp5).ase": {
+    "frame": { "x": 95, "y": 80, "w": 16, "h": 51 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 283, "y": 7, "w": 16, "h": 51 },
+    "sourceSize": { "w": 480, "h": 90 },
+    "duration": 100
+   },
+   "LongCorridor (Lamp6).ase": {
+    "frame": { "x": 0, "y": 80, "w": 38, "h": 53 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 339, "y": 7, "w": 38, "h": 53 },
+    "sourceSize": { "w": 480, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\LongCorridor.png",
+  "format": "RGBA8888",
+  "size": { "w": 512, "h": 256 },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,123 @@
+{ "frames": {
+   "HomeLevel2 (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 360, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 360, "h": 80 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (DoorToBalcony).ase": {
+    "frame": { "x": 501, "y": 0, "w": 3, "h": 76 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 357, "y": 7, "w": 3, "h": 76 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (DoorToRoom1).ase": {
+    "frame": { "x": 395, "y": 0, "w": 30, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 34, "y": 26, "w": 30, "h": 57 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (DoorToRoom2).ase": {
+    "frame": { "x": 425, "y": 0, "w": 30, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 94, "y": 26, "w": 30, "h": 57 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (DoorToRoom3).ase": {
+    "frame": { "x": 455, "y": 0, "w": 30, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 218, "y": 26, "w": 30, "h": 57 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (DoorToRoom4).ase": {
+    "frame": { "x": 395, "y": 57, "w": 30, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 281, "y": 26, "w": 30, "h": 57 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (Ladder).ase": {
+    "frame": { "x": 360, "y": 0, "w": 35, "h": 76 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 154, "y": 7, "w": 35, "h": 76 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (Switcher).ase": {
+    "frame": { "x": 504, "y": 0, "w": 3, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 143, "y": 48, "w": 3, "h": 4 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (Lamp1).ase": {
+    "frame": { "x": 461, "y": 57, "w": 13, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 73, "y": 7, "w": 13, "h": 15 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (Lamp2).ase": {
+    "frame": { "x": 425, "y": 70, "w": 13, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 258, "y": 7, "w": 13, "h": 15 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (Picture1).ase": {
+    "frame": { "x": 425, "y": 57, "w": 18, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 70, "y": 35, "w": 18, "h": 13 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (Picture2).ase": {
+    "frame": { "x": 443, "y": 57, "w": 18, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 256, "y": 35, "w": 18, "h": 13 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (Attic).ase": {
+    "frame": { "x": 485, "y": 0, "w": 16, "h": 50 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 7, "w": 16, "h": 50 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   },
+   "HomeLevel2 (P).ase": {
+    "frame": { "x": 485, "y": 50, "w": 14, "h": 51 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 32, "w": 14, "h": 51 },
+    "sourceSize": { "w": 360, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\HomeLevel2.png",
+  "format": "RGBA8888",
+  "size": { "w": 512, "h": 256 },
+  "scale": "1"
+ }
+}

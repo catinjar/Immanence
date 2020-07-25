@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: c3a363306ddcbac4abb50ed0051c0378
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NeighborCorridorPuzzleGreen (Background Copy Copy).ase
+  - first:
+      213: 21300002
+    second: NeighborCorridorPuzzleGreen (Layer 1).ase
+  - first:
+      213: 21300004
+    second: NeighborCorridorPuzzleGreen (Door1).ase
+  - first:
+      213: 21300006
+    second: NeighborCorridorPuzzleGreen (Door2).ase
+  - first:
+      213: 21300008
+    second: NeighborCorridorPuzzleGreen (Door3).ase
+  - first:
+      213: 21300010
+    second: NeighborCorridorPuzzleGreen (Door4).ase
+  - first:
+      213: 21300012
+    second: NeighborCorridorPuzzleGreen (Switcher).ase
+  - first:
+      213: 21300014
+    second: NeighborCorridorPuzzleGreen (Carpet).ase
+  - first:
+      213: 21300016
+    second: NeighborCorridorPuzzleGreen (Rack).ase
+  - first:
+      213: 21300018
+    second: NeighborCorridorPuzzleGreen (Aqua).ase
+  - first:
+      213: 21300020
+    second: NeighborCorridorPuzzleGreen (tree).ase
+  - first:
+      213: 21300022
+    second: NeighborCorridorPuzzleGreen (hollow).ase
+  - first:
+      213: 21300024
+    second: NeighborCorridorPuzzleGreen (leaves).ase
+  - first:
+      213: 21300026
+    second: NeighborCorridorPuzzleGreen (grass).ase
+  - first:
+      213: 21300028
+    second: NeighborCorridorPuzzleGreen (Background).ase
+  - first:
+      213: 21300030
+    second: NeighborCorridorPuzzleGreen_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (Background).ase
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 160
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e126e327211104d40a411f942a27d81d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (Layer 1).ase
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 148
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb985474cae3194cac80fde093cf19d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (Door1).ase
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 201
+        width: 3
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bff48e29554b6045a86871027a684a1
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (Door2).ase
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 201
+        width: 3
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59df3bfc8e4a8a149b6e86f68d89b368
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (Door3).ase
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 100
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3843bedb9ddc341a106f15085b20fe
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (Door4).ase
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 100
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa92e924bfbaa0499003166b3c526de
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (Switcher).ase
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 253
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369c37e1d07df9549980e376f78a98cb
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (Carpet).ase
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 255
+        width: 11
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e9e31958eb2714cac55c44e0105b4d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (Rack).ase
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 52
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d7d73da8e6b794c93d664d41e90882
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (Aqua).ase
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a93619c5c551fa478dc17f6494a0db0
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (tree).ase
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 178
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54b46d98bfc9364193ec2c3d0515954
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (hollow).ase
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 111
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1ac159ed49b70439018023eefc58f1
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (leaves).ase
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 157
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bcf46c997de0944a10eac6cff69e48
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen (grass).ase
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 156
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1463ab983c8088541ad808ba619245f9
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborCorridorPuzzleGreen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bc085b21517d946bf2fd4c8e0ca725
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: efebed3860f9e8c4a8dea7ef48fe2d71
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

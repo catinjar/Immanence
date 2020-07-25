@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 256ac7543746ef2419c6831d45f0a3c8, type: 3}
+  m_Name: VideoEditorPuzzle
+  m_EditorClassIdentifier: 
+  storedState: {fileID: 11400000, guid: 2785a333405844b47a6758ae1190d324, type: 2}
+  stage: 0
+  selectedSlotIndex: -1
+  currentClip: 0
+  editorScene:
+    m_SceneAsset: {fileID: 102900000, guid: f18ba12072a4c7c49886a0e10a2f4df4, type: 3}
+    m_SceneName: VideoEditorPuzzle
+  getClipScene:
+    m_SceneAsset: {fileID: 102900000, guid: e48240db5c93b554b8ec4f6c17d0aa20, type: 3}
+    m_SceneName: GetClip
+  videoTransitionScene:
+    m_SceneAsset: {fileID: 102900000, guid: b7e1a0630f4fd7f47b970b7884105b7f, type: 3}
+    m_SceneName: VideoTransition2
+  videoSlots:
+  - color: {r: 1, g: 0, b: 0, a: 1}
+    active: 1
+    scene:
+      m_SceneAsset: {fileID: 102900000, guid: d024601f7bc491040a7042c951a2329a, type: 3}
+      m_SceneName: FirstClip
+    order: 1
+    tag: 
+  - color: {r: 0.33184442, g: 0.3197989, b: 0.6691177, a: 1}
+    active: 1
+    scene:
+      m_SceneAsset: {fileID: 102900000, guid: a690fa7508801b640854b8b171b89aed, type: 3}
+      m_SceneName: ThirdClip
+    order: 4
+    tag: 
+  - color: {r: 1, g: 0.64137924, b: 0, a: 1}
+    active: 1
+    scene:
+      m_SceneAsset: {fileID: 102900000, guid: 3c4557c006a190b4182be1d7b05cd454, type: 3}
+      m_SceneName: SecondClip
+    order: 3
+    tag: 
+  - color: {r: 0.9366006, g: 0.9485294, b: 0.083693795, a: 1}
+    active: 0
+    scene:
+      m_SceneAsset: {fileID: 102900000, guid: eaace38ea8e24cd4ca5d39c99ab35d0d, type: 3}
+      m_SceneName: CandlesClip
+    order: 2
+    tag: clip1
+  - color: {r: 0.031141855, g: 0.7058823, b: 0.23123729, a: 1}
+    active: 0
+    scene:
+      m_SceneAsset: {fileID: 102900000, guid: d9427d6f81f6e434badaff6ae4800ac5, type: 3}
+      m_SceneName: LastClip
+    order: 5
+    tag: clip2
+  - color: {r: 0, g: 0, b: 0, a: 1}
+    active: 0
+    scene:
+      m_SceneAsset: {fileID: 0}
+      m_SceneName: 
+    order: 0
+    tag: 
+  candles: 0101010101

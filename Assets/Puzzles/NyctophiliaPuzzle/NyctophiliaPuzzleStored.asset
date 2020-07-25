@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e07e46973dc544997ea64b967bbfdb, type: 3}
+  m_Name: NyctophiliaPuzzleStored
+  m_EditorClassIdentifier: 
+  storedState: {fileID: 0}
+  currentPortal: {fileID: 0}
+  hasKey: 0
+  enemyPrefab: {fileID: 1718644129197112, guid: ee340fb9184341444a490e4d00ff4fe2,
+    type: 2}
+  enemies:
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 0e0384813b2eb8d4ca81055a1621c268, type: 3}
+      m_SceneName: UniLevel2
+    position: 0
+    path: 
+    timeToMove: 0
+    haunting: 0
+    alive: 1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 51658346125349440ac196da8faa28cc, type: 3}
+      m_SceneName: UniLevel1
+    position: 50
+    path: 
+    timeToMove: 0
+    haunting: 0
+    alive: 1
+  nodes:
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 8ff049387b2ced14390058d1ec65d963, type: 3}
+      m_SceneName: Class11
+    edges:
+    - node: 8
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 51658346125349440ac196da8faa28cc,
+          type: 3}
+        m_SceneName: UniLevel1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 555260836669dbf4b94fc09051149408, type: 3}
+      m_SceneName: Class12
+    edges:
+    - node: 8
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 51658346125349440ac196da8faa28cc,
+          type: 3}
+        m_SceneName: UniLevel1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: b56c735ff9005904592a221c3a36590c, type: 3}
+      m_SceneName: Class13
+    edges:
+    - node: 8
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 51658346125349440ac196da8faa28cc,
+          type: 3}
+        m_SceneName: UniLevel1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: dc9a84004b3b63a4987ff100896dd5d8, type: 3}
+      m_SceneName: Class14
+    edges:
+    - node: 8
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 51658346125349440ac196da8faa28cc,
+          type: 3}
+        m_SceneName: UniLevel1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 8e982e082c88cbc4e987643577b8c3c6, type: 3}
+      m_SceneName: Class21
+    edges:
+    - node: 9
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 0e0384813b2eb8d4ca81055a1621c268,
+          type: 3}
+        m_SceneName: UniLevel2
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 3649d965938de12439b53e50e2ee7a87, type: 3}
+      m_SceneName: Class22
+    edges:
+    - node: 9
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 0e0384813b2eb8d4ca81055a1621c268,
+          type: 3}
+        m_SceneName: UniLevel2
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: ada812797985d1c41b895b8484981c92, type: 3}
+      m_SceneName: Class23
+    edges:
+    - node: 9
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 0e0384813b2eb8d4ca81055a1621c268,
+          type: 3}
+        m_SceneName: UniLevel2
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: ea352c30b83169248bdcf391cd8b52cc, type: 3}
+      m_SceneName: Class24
+    edges:
+    - node: 9
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 0e0384813b2eb8d4ca81055a1621c268,
+          type: 3}
+        m_SceneName: UniLevel2
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 51658346125349440ac196da8faa28cc, type: 3}
+      m_SceneName: UniLevel1
+    edges:
+    - node: 0
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 8ff049387b2ced14390058d1ec65d963,
+          type: 3}
+        m_SceneName: Class11
+    - node: 1
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 555260836669dbf4b94fc09051149408,
+          type: 3}
+        m_SceneName: Class12
+    - node: 2
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: b56c735ff9005904592a221c3a36590c,
+          type: 3}
+        m_SceneName: Class13
+    - node: 3
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: dc9a84004b3b63a4987ff100896dd5d8,
+          type: 3}
+        m_SceneName: Class14
+    - node: 9
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 0e0384813b2eb8d4ca81055a1621c268,
+          type: 3}
+        m_SceneName: UniLevel2
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 0e0384813b2eb8d4ca81055a1621c268, type: 3}
+      m_SceneName: UniLevel2
+    edges:
+    - node: 4
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 8e982e082c88cbc4e987643577b8c3c6,
+          type: 3}
+        m_SceneName: Class21
+    - node: 5
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 3649d965938de12439b53e50e2ee7a87,
+          type: 3}
+        m_SceneName: Class22
+    - node: 6
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: ada812797985d1c41b895b8484981c92,
+          type: 3}
+        m_SceneName: Class23
+    - node: 7
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: ea352c30b83169248bdcf391cd8b52cc,
+          type: 3}
+        m_SceneName: Class24
+    - node: 8
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 51658346125349440ac196da8faa28cc,
+          type: 3}
+        m_SceneName: UniLevel1

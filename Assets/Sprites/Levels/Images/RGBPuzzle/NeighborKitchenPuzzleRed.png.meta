@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 096ffabee47311c4fac246d33064b29d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NeighborKitchenPuzzleRed (Background).ase
+  - first:
+      213: 21300002
+    second: NeighborKitchenPuzzleRed (Door).ase
+  - first:
+      213: 21300004
+    second: NeighborKitchenPuzzleRed (Table).ase
+  - first:
+      213: 21300006
+    second: NeighborKitchenPuzzleRed (Chair1).ase
+  - first:
+      213: 21300008
+    second: NeighborKitchenPuzzleRed (Chair2).ase
+  - first:
+      213: 21300010
+    second: NeighborKitchenPuzzleRed (Lamp).ase
+  - first:
+      213: 21300012
+    second: NeighborKitchenPuzzleRed (Switcher).ase
+  - first:
+      213: 21300014
+    second: NeighborKitchenPuzzleRed (Back).ase
+  - first:
+      213: 21300016
+    second: NeighborKitchenPuzzleRed (Kitchen1).ase
+  - first:
+      213: 21300018
+    second: NeighborKitchenPuzzleRed (Kitchen2).ase
+  - first:
+      213: 21300020
+    second: NeighborKitchenPuzzleRed (Clock).ase
+  - first:
+      213: 21300022
+    second: NeighborKitchenPuzzleRed (Microwave).ase
+  - first:
+      213: 21300024
+    second: NeighborKitchenPuzzleRed (Fridge).ase
+  - first:
+      213: 21300026
+    second: NeighborKitchenPuzzleRed_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Background).ase
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 160
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fa872459d1d0b478c54c84b12c425f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Door).ase
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 73
+        width: 3
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca5fb4509b8e62409aa5262b3a61f91
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Table).ase
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 60
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a826e8c67ca5734aaa6bc2d996eb5dd
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Chair1).ase
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 67
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e850a052741cb48b034c9bc2156d78
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Chair2).ase
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 43
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f373c21a06787b444872ed75984039b5
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Lamp).ase
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 117
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c13dc75ffe79249b2692bd06837e2e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Switcher).ase
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 114
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3185c4add6c0f144b91597c0cfbbc8de
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Back).ase
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 35
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba36bab1b8b38f44bb0d6fb2646d0a90
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Kitchen1).ase
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e6aaee8bb0a7847b26e0a50f02a1bf
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Kitchen2).ase
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5878a3269ca531346b7f05f2dab68669
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Clock).ase
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 52
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12538988bac9d804c874d7bcfeb1cc69
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Microwave).ase
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 63
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e666d36e3d2ecb4daea73e72eac1bbe
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed (Fridge).ase
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 73
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7f7d4f5fae7e5499e45dfdc9c366b4
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleRed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 6
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5840d6355db4b6f448de30fda1e7efe6
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ca53c21aba0fce243ab85152b6b0edc2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ItemText
+  - Cursor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Camera
+  - Bounds
+  - Interactables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3007045453
+    locked: 0
+  - name: Items
+    uniqueID: 761665403
+    locked: 0
+  - name: Player
+    uniqueID: 743274047
+    locked: 0
+  - name: HP
+    uniqueID: 2356598291
+    locked: 0
+  - name: Foreground
+    uniqueID: 1274274765
+    locked: 0
+  - name: UI
+    uniqueID: 1143920103
+    locked: 0

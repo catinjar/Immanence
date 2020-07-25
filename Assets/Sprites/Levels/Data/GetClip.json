@@ -1,0 +1,35 @@
+{ "frames": {
+   "GetClip (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 90 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 90 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "GetClip (P).ase": {
+    "frame": { "x": 160, "y": 0, "w": 14, "h": 51 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 32, "w": 14, "h": 51 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "GetClip (Cassete).ase": {
+    "frame": { "x": 174, "y": 0, "w": 9, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 119, "y": 78, "w": 9, "h": 5 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\GetClip.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,99 @@
+{ "frames": {
+   "HospitalCorridor (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 320, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 320, "h": 80 },
+    "sourceSize": { "w": 320, "h": 90 },
+    "duration": 100
+   },
+   "HospitalCorridor (Door1).ase": {
+    "frame": { "x": 484, "y": 12, "w": 3, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 28, "w": 3, "h": 55 },
+    "sourceSize": { "w": 320, "h": 90 },
+    "duration": 100
+   },
+   "HospitalCorridor (Door2).ase": {
+    "frame": { "x": 487, "y": 12, "w": 3, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 317, "y": 28, "w": 3, "h": 55 },
+    "sourceSize": { "w": 320, "h": 90 },
+    "duration": 100
+   },
+   "HospitalCorridor (Door3).ase": {
+    "frame": { "x": 320, "y": 0, "w": 32, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 56, "y": 26, "w": 32, "h": 57 },
+    "sourceSize": { "w": 320, "h": 90 },
+    "duration": 100
+   },
+   "HospitalCorridor (Door4).ase": {
+    "frame": { "x": 352, "y": 0, "w": 32, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 231, "y": 26, "w": 32, "h": 57 },
+    "sourceSize": { "w": 320, "h": 90 },
+    "duration": 100
+   },
+   "HospitalCorridor (Bench).ase": {
+    "frame": { "x": 384, "y": 0, "w": 128, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 97, "y": 71, "w": 128, "h": 12 },
+    "sourceSize": { "w": 320, "h": 90 },
+    "duration": 100
+   },
+   "HospitalCorridor (Human1).ase": {
+    "frame": { "x": 429, "y": 12, "w": 20, "h": 39 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 101, "y": 35, "w": 20, "h": 39 },
+    "sourceSize": { "w": 320, "h": 90 },
+    "duration": 100
+   },
+   "HospitalCorridor (Human2).ase": {
+    "frame": { "x": 384, "y": 12, "w": 23, "h": 38 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 145, "y": 39, "w": 23, "h": 38 },
+    "sourceSize": { "w": 320, "h": 90 },
+    "duration": 100
+   },
+   "HospitalCorridor (Human3).ase": {
+    "frame": { "x": 407, "y": 12, "w": 22, "h": 38 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 176, "y": 38, "w": 22, "h": 38 },
+    "sourceSize": { "w": 320, "h": 90 },
+    "duration": 100
+   },
+   "HospitalCorridor (Human4).ase": {
+    "frame": { "x": 463, "y": 12, "w": 21, "h": 32 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 217, "y": 47, "w": 21, "h": 32 },
+    "sourceSize": { "w": 320, "h": 90 },
+    "duration": 100
+   },
+   "HospitalCorridor (Player).ase": {
+    "frame": { "x": 449, "y": 12, "w": 14, "h": 51 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 32, "w": 14, "h": 51 },
+    "sourceSize": { "w": 320, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\HospitalCorridor.png",
+  "format": "RGBA8888",
+  "size": { "w": 512, "h": 256 },
+  "scale": "1"
+ }
+}

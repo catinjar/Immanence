@@ -1,0 +1,35 @@
+{ "frames": {
+   "AfterHospital (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 90 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 90 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "AfterHospital (P).ase": {
+    "frame": { "x": 160, "y": 0, "w": 14, "h": 51 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 32, "w": 14, "h": 51 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "AfterHospital (Dan).ase": {
+    "frame": { "x": 174, "y": 0, "w": 12, "h": 54 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 117, "y": 29, "w": 12, "h": 54 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\AfterHospital.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,59 @@
+{ "frames": {
+   "Room22 (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 160, "h": 80 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Room22 (Door).ase": {
+    "frame": { "x": 201, "y": 0, "w": 30, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 26, "w": 30, "h": 57 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Room22 (Switcher).ase": {
+    "frame": { "x": 245, "y": 0, "w": 3, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 37, "y": 50, "w": 3, "h": 4 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Room22 (Table).ase": {
+    "frame": { "x": 160, "y": 0, "w": 41, "h": 76 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 53, "y": 7, "w": 41, "h": 76 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Room22 (Bed).ase": {
+    "frame": { "x": 160, "y": 76, "w": 64, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 96, "y": 62, "w": 64, "h": 21 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Room22 (Chair).ase": {
+    "frame": { "x": 231, "y": 0, "w": 14, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 42, "y": 53, "w": 14, "h": 30 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\Room22.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1"
+ }
+}

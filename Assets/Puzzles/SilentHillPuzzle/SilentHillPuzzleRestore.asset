@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e07e46973dc544997ea64b967bbfdb, type: 3}
+  m_Name: SilentHillPuzzleRestore
+  m_EditorClassIdentifier: 
+  storedState: {fileID: 0}
+  currentPortal: {fileID: 0}
+  hasKey: 0
+  enemyPrefab: {fileID: 1380721499918420, guid: 316d84565a95cea4da031b512c8a2d84,
+    type: 3}
+  enemies:
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 573b0fa2e186c7f4bbd5f0b708834476, type: 3}
+      m_SceneName: Room2
+    position: 70
+    path: 
+    timeToMove: 0
+    haunting: 0
+    alive: 1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 3c238da15e5cfc74586ba2bf9cb980c8, type: 3}
+      m_SceneName: Room3
+    position: 80
+    path: 
+    timeToMove: 0
+    haunting: 0
+    alive: 1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 3c238da15e5cfc74586ba2bf9cb980c8, type: 3}
+      m_SceneName: Room3
+    position: 140
+    path: 
+    timeToMove: 0
+    haunting: 0
+    alive: 1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: cb0d75aca28bb214aa578c4719010efb, type: 3}
+      m_SceneName: Room4
+    position: 0
+    path: 
+    timeToMove: 0
+    haunting: 0
+    alive: 1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 84140805c76c7b24592a24716edb5d9e, type: 3}
+      m_SceneName: Room6
+    position: 60
+    path: 
+    timeToMove: 0
+    haunting: 0
+    alive: 1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 5542905e768b2a74199f8260603405e2, type: 3}
+      m_SceneName: Room8
+    position: 40
+    path: 
+    timeToMove: 0
+    haunting: 0
+    alive: 1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 16345158c7a2f0f4e86f074e4ecb8ae5, type: 3}
+      m_SceneName: Room9
+    position: 70
+    path: 
+    timeToMove: 0
+    haunting: 0
+    alive: 1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: be31b6e5465e96145a9f7ca0d1221dc7, type: 3}
+      m_SceneName: Room11a
+    position: 0
+    path: 
+    timeToMove: 0
+    haunting: 0
+    alive: 1
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: be31b6e5465e96145a9f7ca0d1221dc7, type: 3}
+      m_SceneName: Room11a
+    position: 20
+    path: 
+    timeToMove: 0
+    haunting: 0
+    alive: 1
+  nodes:
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 573b0fa2e186c7f4bbd5f0b708834476, type: 3}
+      m_SceneName: Room2
+    edges:
+    - node: 1
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 3c238da15e5cfc74586ba2bf9cb980c8,
+          type: 3}
+        m_SceneName: Room3
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 3c238da15e5cfc74586ba2bf9cb980c8, type: 3}
+      m_SceneName: Room3
+    edges:
+    - node: 0
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 573b0fa2e186c7f4bbd5f0b708834476,
+          type: 3}
+        m_SceneName: Room2
+    - node: 2
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: cb0d75aca28bb214aa578c4719010efb,
+          type: 3}
+        m_SceneName: Room4
+    - node: 3
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 96e836a94799d3148bf12de78dc71e18,
+          type: 3}
+        m_SceneName: Room5
+    - node: 5
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 1e7c18920c116fc4faca8b45deeb546f,
+          type: 3}
+        m_SceneName: Room7
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: cb0d75aca28bb214aa578c4719010efb, type: 3}
+      m_SceneName: Room4
+    edges:
+    - node: 1
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 3c238da15e5cfc74586ba2bf9cb980c8,
+          type: 3}
+        m_SceneName: Room3
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 96e836a94799d3148bf12de78dc71e18, type: 3}
+      m_SceneName: Room5
+    edges:
+    - node: 1
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 3c238da15e5cfc74586ba2bf9cb980c8,
+          type: 3}
+        m_SceneName: Room3
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 84140805c76c7b24592a24716edb5d9e, type: 3}
+      m_SceneName: Room6
+    edges:
+    - node: 3
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 96e836a94799d3148bf12de78dc71e18,
+          type: 3}
+        m_SceneName: Room5
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 1e7c18920c116fc4faca8b45deeb546f, type: 3}
+      m_SceneName: Room7
+    edges:
+    - node: 1
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 3c238da15e5cfc74586ba2bf9cb980c8,
+          type: 3}
+        m_SceneName: Room3
+    - node: 6
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 5542905e768b2a74199f8260603405e2,
+          type: 3}
+        m_SceneName: Room8
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 5542905e768b2a74199f8260603405e2, type: 3}
+      m_SceneName: Room8
+    edges:
+    - node: 5
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 1e7c18920c116fc4faca8b45deeb546f,
+          type: 3}
+        m_SceneName: Room7
+    - node: 7
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 16345158c7a2f0f4e86f074e4ecb8ae5,
+          type: 3}
+        m_SceneName: Room9
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: 16345158c7a2f0f4e86f074e4ecb8ae5, type: 3}
+      m_SceneName: Room9
+    edges:
+    - node: 6
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 5542905e768b2a74199f8260603405e2,
+          type: 3}
+        m_SceneName: Room8
+    - node: 8
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: c7fe0d7bfef6f1a48a3f3410143a6037,
+          type: 3}
+        m_SceneName: Room10
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: c7fe0d7bfef6f1a48a3f3410143a6037, type: 3}
+      m_SceneName: Room10
+    edges:
+    - node: 7
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: 16345158c7a2f0f4e86f074e4ecb8ae5,
+          type: 3}
+        m_SceneName: Room9
+    - node: 9
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: be31b6e5465e96145a9f7ca0d1221dc7,
+          type: 3}
+        m_SceneName: Room11a
+  - scene:
+      m_SceneAsset: {fileID: 102900000, guid: be31b6e5465e96145a9f7ca0d1221dc7, type: 3}
+      m_SceneName: Room11a
+    edges:
+    - node: 8
+      scene:
+        m_SceneAsset: {fileID: 102900000, guid: c7fe0d7bfef6f1a48a3f3410143a6037,
+          type: 3}
+        m_SceneName: Room10

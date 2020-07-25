@@ -1,0 +1,115 @@
+{ "frames": {
+   "Childhood2 (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 160, "h": 80 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood2 (Server).ase": {
+    "frame": { "x": 160, "y": 0, "w": 23, "h": 46 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 84, "y": 37, "w": 23, "h": 46 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood2 (Candle1).ase": {
+    "frame": { "x": 197, "y": 0, "w": 9, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 35, "w": 9, "h": 48 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood2 (Candle2).ase": {
+    "frame": { "x": 215, "y": 0, "w": 9, "h": 46 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 36, "y": 37, "w": 9, "h": 46 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood2 (Candle3).ase": {
+    "frame": { "x": 233, "y": 0, "w": 9, "h": 39 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 66, "y": 44, "w": 9, "h": 39 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood2 (Candle4).ase": {
+    "frame": { "x": 206, "y": 0, "w": 9, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 118, "y": 35, "w": 9, "h": 48 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood2 (Candle5).ase": {
+    "frame": { "x": 224, "y": 0, "w": 9, "h": 43 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 140, "y": 40, "w": 9, "h": 43 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood2 (Fire1).ase": {
+    "frame": { "x": 242, "y": 0, "w": 9, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 34, "w": 9, "h": 13 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood2 (Fire2).ase": {
+    "frame": { "x": 242, "y": 13, "w": 9, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 36, "y": 36, "w": 9, "h": 11 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood2 (Fire3).ase": {
+    "frame": { "x": 233, "y": 39, "w": 9, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 66, "y": 43, "w": 9, "h": 6 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood2 (Fire4).ase": {
+    "frame": { "x": 242, "y": 34, "w": 9, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 118, "y": 34, "w": 9, "h": 8 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood2 (Fire5).ase": {
+    "frame": { "x": 242, "y": 24, "w": 9, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 140, "y": 38, "w": 9, "h": 10 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood2 (P).ase": {
+    "frame": { "x": 183, "y": 0, "w": 14, "h": 51 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 32, "w": 14, "h": 51 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\Childhood2.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1"
+ }
+}

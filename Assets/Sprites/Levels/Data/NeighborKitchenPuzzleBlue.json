@@ -1,0 +1,107 @@
+{ "frames": {
+   "NeighborKitchenPuzzleBlue (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 160, "h": 80 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleBlue (Door).ase": {
+    "frame": { "x": 252, "y": 0, "w": 3, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 157, "y": 28, "w": 3, "h": 55 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleBlue (Cupboard).ase": {
+    "frame": { "x": 213, "y": 42, "w": 39, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 19, "y": 18, "w": 39, "h": 21 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleBlue (Meds).ase": {
+    "frame": { "x": 160, "y": 0, "w": 42, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 18, "w": 42, "h": 25 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleBlue (Machine).ase": {
+    "frame": { "x": 202, "y": 0, "w": 23, "h": 42 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 96, "y": 41, "w": 23, "h": 42 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleBlue (Dropper).ase": {
+    "frame": { "x": 198, "y": 58, "w": 14, "h": 38 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 86, "y": 45, "w": 14, "h": 38 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleBlue (Chair).ase": {
+    "frame": { "x": 171, "y": 25, "w": 9, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 72, "w": 9, "h": 11 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleBlue (Xray).ase": {
+    "frame": { "x": 160, "y": 58, "w": 38, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 68, "y": 20, "w": 38, "h": 18 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleBlue (Lamp).ase": {
+    "frame": { "x": 225, "y": 0, "w": 21, "h": 42 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 52, "y": 7, "w": 21, "h": 42 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleBlue (Table).ase": {
+    "frame": { "x": 160, "y": 42, "w": 53, "h": 16 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 22, "y": 67, "w": 53, "h": 16 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleBlue (Stuff).ase": {
+    "frame": { "x": 212, "y": 63, "w": 12, "h": 19 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 77, "y": 64, "w": 12, "h": 19 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborKitchenPuzzleBlue (Clock).ase": {
+    "frame": { "x": 160, "y": 25, "w": 11, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 131, "y": 22, "w": 11, "h": 11 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\NeighborKitchenPuzzleBlue.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1"
+ }
+}

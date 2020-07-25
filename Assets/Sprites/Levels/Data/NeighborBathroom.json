@@ -1,0 +1,99 @@
+{ "frames": {
+   "NeighborBathroom (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 122, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 122, "h": 80 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborBathroom (Switcher).ase": {
+    "frame": { "x": 219, "y": 28, "w": 2, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 53, "w": 2, "h": 3 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborBathroom (Bath).ase": {
+    "frame": { "x": 178, "y": 0, "w": 58, "h": 28 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 64, "y": 55, "w": 58, "h": 28 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborBathroom (Shower).ase": {
+    "frame": { "x": 243, "y": 34, "w": 4, "h": 36 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 118, "y": 19, "w": 4, "h": 36 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborBathroom (Mirror).ase": {
+    "frame": { "x": 196, "y": 28, "w": 17, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 25, "w": 17, "h": 23 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborBathroom (Toilet).ase": {
+    "frame": { "x": 178, "y": 28, "w": 18, "h": 28 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 46, "y": 55, "w": 18, "h": 28 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborBathroom (Paper).ase": {
+    "frame": { "x": 213, "y": 28, "w": 6, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 40, "y": 67, "w": 6, "h": 4 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborBathroom (Stuff).ase": {
+    "frame": { "x": 213, "y": 34, "w": 27, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 77, "y": 34, "w": 27, "h": 8 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborBathroom (Curtain).ase": {
+    "frame": { "x": 122, "y": 0, "w": 56, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 66, "y": 17, "w": 56, "h": 55 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborBathroom (Facet).ase": {
+    "frame": { "x": 236, "y": 0, "w": 19, "h": 34 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 49, "w": 19, "h": 34 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "NeighborBathroom (Door).ase": {
+    "frame": { "x": 240, "y": 34, "w": 3, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 28, "w": 3, "h": 55 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2-beta12",
+  "image": "Images\\NeighborBathroom.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1"
+ }
+}

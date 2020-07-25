@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74c1e4e379afc524f8a3ce84ce77e0ec, type: 3}
+  m_Name: TextManager
+  m_EditorClassIdentifier: 
+  russianBundle: {fileID: 11400000, guid: 857f258c181d2534488e9987e9dc6b85, type: 2}
+  englishBundle: {fileID: 11400000, guid: fb206011300b9414687de9a26263a5b6, type: 2}

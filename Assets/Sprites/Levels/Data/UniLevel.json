@@ -1,0 +1,35 @@
+{ "frames": {
+   "UniLevel (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 640, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 640, "h": 80 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "UniLevel (Stairs).ase": {
+    "frame": { "x": 640, "y": 0, "w": 51, "h": 76 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 262, "y": 7, "w": 51, "h": 76 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "UniLevel (Stairs2).ase": {
+    "frame": { "x": 691, "y": 0, "w": 51, "h": 76 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 262, "y": 7, "w": 51, "h": 76 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\UniLevel.png",
+  "format": "RGBA8888",
+  "size": { "w": 1024, "h": 512 },
+  "scale": "1"
+ }
+}

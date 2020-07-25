@@ -1,0 +1,43 @@
+{ "frames": {
+   "LastSupper (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 240, "h": 90 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 240, "h": 90 },
+    "sourceSize": { "w": 240, "h": 90 },
+    "duration": 100
+   },
+   "LastSupper (P).ase": {
+    "frame": { "x": 240, "y": 0, "w": 13, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 114, "y": 42, "w": 13, "h": 48 },
+    "sourceSize": { "w": 240, "h": 90 },
+    "duration": 100
+   },
+   "LastSupper (People).ase": {
+    "frame": { "x": 0, "y": 90, "w": 199, "h": 40 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 24, "y": 45, "w": 199, "h": 40 },
+    "sourceSize": { "w": 240, "h": 90 },
+    "duration": 100
+   },
+   "LastSupper (Table).ase": {
+    "frame": { "x": 0, "y": 130, "w": 210, "h": 37 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 18, "y": 53, "w": 210, "h": 37 },
+    "sourceSize": { "w": 240, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\LastSupper.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 256 },
+  "scale": "1"
+ }
+}

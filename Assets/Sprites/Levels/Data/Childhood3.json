@@ -1,0 +1,131 @@
+{ "frames": {
+   "Childhood3 (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 160, "h": 80 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (Server).ase": {
+    "frame": { "x": 160, "y": 0, "w": 23, "h": 46 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 84, "y": 37, "w": 23, "h": 46 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (IGME).ase": {
+    "frame": { "x": 248, "y": 0, "w": 7, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 111, "y": 68, "w": 7, "h": 15 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (Server2).ase": {
+    "frame": { "x": 197, "y": 0, "w": 15, "h": 36 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 46, "y": 47, "w": 15, "h": 36 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (Candle1).ase": {
+    "frame": { "x": 212, "y": 0, "w": 9, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 35, "w": 9, "h": 48 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (Candle2).ase": {
+    "frame": { "x": 230, "y": 0, "w": 9, "h": 46 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 36, "y": 37, "w": 9, "h": 46 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (Candle3).ase": {
+    "frame": { "x": 197, "y": 36, "w": 9, "h": 39 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 66, "y": 44, "w": 9, "h": 39 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (Candle4).ase": {
+    "frame": { "x": 221, "y": 0, "w": 9, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 118, "y": 35, "w": 9, "h": 48 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (Candle5).ase": {
+    "frame": { "x": 239, "y": 0, "w": 9, "h": 43 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 140, "y": 40, "w": 9, "h": 43 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (Fire1).ase": {
+    "frame": { "x": 239, "y": 43, "w": 9, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 34, "w": 9, "h": 13 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (Fire2).ase": {
+    "frame": { "x": 160, "y": 46, "w": 9, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 36, "y": 36, "w": 9, "h": 11 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (Fire3).ase": {
+    "frame": { "x": 206, "y": 48, "w": 9, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 66, "y": 43, "w": 9, "h": 6 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (Fire4).ase": {
+    "frame": { "x": 230, "y": 46, "w": 9, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 118, "y": 34, "w": 9, "h": 8 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (Fire5).ase": {
+    "frame": { "x": 169, "y": 46, "w": 9, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 140, "y": 38, "w": 9, "h": 10 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "Childhood3 (P).ase": {
+    "frame": { "x": 183, "y": 0, "w": 14, "h": 51 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 32, "w": 14, "h": 51 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\Childhood3.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1"
+ }
+}

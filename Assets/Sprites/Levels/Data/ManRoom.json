@@ -1,0 +1,51 @@
+{ "frames": {
+   "ManRoom (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 160, "h": 80 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ManRoom (Door).ase": {
+    "frame": { "x": 160, "y": 0, "w": 3, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 157, "y": 28, "w": 3, "h": 55 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ManRoom (Lamp).ase": {
+    "frame": { "x": 163, "y": 0, "w": 3, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 76, "y": 7, "w": 3, "h": 14 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ManRoom (Switcher).ase": {
+    "frame": { "x": 166, "y": 0, "w": 2, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 148, "y": 56, "w": 2, "h": 3 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ManRoom (IGME).ase": {
+    "frame": { "x": 0, "y": 80, "w": 152, "h": 58 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 25, "w": 152, "h": 58 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.3-x64",
+  "image": "Images\\ManRoom.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 256 },
+  "scale": "1"
+ }
+}

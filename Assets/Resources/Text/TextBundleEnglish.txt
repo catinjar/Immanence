@@ -1,0 +1,2633 @@
+{
+  "itemText": {
+    "GuyRoom": {
+      "Board": [
+        "Whiteboard",
+        "The calculations must be correct.",
+        "But something is missing..."
+      ],
+      "Window": [
+        "Window",
+        "It's too quiet outside."
+      ],
+      "Switcher": [
+        "Switch"
+      ],
+      "Door": [
+        "Door"
+      ],
+      "Books": [
+        "Books",
+        "Several books from different fields.",
+        "All of them are related to IGME technologies..."
+      ],
+      "Box": [
+        "Box",
+        "It's left over from my IGME kit."
+      ],
+      "Computer": [
+        "Computer",
+        "There's no electricity, so it won't work."
+      ],
+      "IGME": [
+        "IGME kit",
+        "Many people said that these developments are dangerous.",
+        "They were right."
+      ],
+      "Monitor": [
+        "Computer",
+        "There's no electricity, so it won't work."
+      ],
+      "Notes": [
+        "Notes",
+        "I've spent so much time on this."
+      ],
+      "Sofa": [
+        "Sofa",
+        "Nothing interesting."
+      ],
+      "Table": [
+        "Table",
+        "The drawers are full of junk."
+      ],
+      "Phone": [
+        "Phone",
+        "It's my phone.",
+        "I need to check it and try to understand what's happening."
+      ],
+      "Book": []
+    },
+    "Intro1": {},
+    "NeighborRoom": {
+      "Bed": [
+        "Bed",
+        "It's covered in blood.",
+        "Shit..."
+      ],
+      "Door": [
+        "Door"
+      ],
+      "Chair": [
+        "Chair",
+        "Did I fall asleep?",
+        "Or did I pass out?"
+      ],
+      "Nightstand": [
+        "Bedside table ",
+        "Nothing special."
+      ],
+      "RedLamp": [
+        "Night light",
+        "It seems it was turned on."
+      ],
+      "Boxes": [
+        "Boxes",
+        "A bunch of useless boxes."
+      ],
+      "Cupboard": [
+        "Cupboard",
+        "An ordinary cupboard, nothing interesting."
+      ],
+      "Shelf": [
+        "Shelf",
+        "There are some novels and trophies on the shelf."
+      ],
+      "Picture": [
+        "Painting",
+        "An oil landscape, nothing interesting."
+      ],
+      "Window": [
+        "Window",
+        "It's already nighttime.",
+        "How long have I been here?"
+      ],
+      "Locker": [
+        "Switch"
+      ]
+    },
+    "Childhood1": {},
+    "NeighborCorridor": {
+      "Cross": [
+        "Cross",
+        "A Christian cross.",
+        "After the appearance of IGME, they became rare."
+      ],
+      "Mirror": [
+        "Mirror",
+        "It's so old that the surface is flaking off.",
+        "I can barely see my reflection."
+      ],
+      "Phone": [
+        "Intercom",
+        "I doubt it still works."
+      ],
+      "Boots": [
+        "Shoes",
+        "Those shouldn't be here."
+      ],
+      "Aqua": [
+        "Aquarium",
+        "They're dead.",
+        "What happened?"
+      ],
+      "DoorToRoom": [
+        "Door"
+      ],
+      "DoorToOutside": [
+        "Door"
+      ],
+      "DoorToBath": [
+        "Door"
+      ],
+      "DoorToKitchen": [
+        "Door"
+      ],
+      "Carpet": [],
+      "Rack": [],
+      "Switcher": [
+        "Switch"
+      ]
+    },
+    "NeighborBathroom": {
+      "Door": [
+        "Door"
+      ],
+      "Switcher": [
+        "Switch"
+      ],
+      "Bath": [
+        "Bath",
+        "It's clean, nothing unusual here."
+      ],
+      "Facet": [
+        "Faucet",
+        "The water isn't running."
+      ],
+      "Mirror": [
+        "Mirror",
+        "It's perfectly clean."
+      ],
+      "Stuff": [
+        "Shelf",
+        "Nothing special."
+      ],
+      "Toilet": [
+        "Toilet",
+        "Nothing interesting."
+      ]
+    },
+    "NeighborKitchen": {
+      "Switcher": [
+        "Switch"
+      ],
+      "Door": [
+        "Door"
+      ],
+      "Chair1": [
+        "Chair",
+        "We were sitting here not too long ago..."
+      ],
+      "Chair2": [
+        "Chair",
+        "We were sitting here not too long ago..."
+      ],
+      "Clock": [
+        "Clock",
+        "It's late."
+      ],
+      "Fridge": [
+        "Fridge",
+        "All of the magnets are from different places.",
+        "There's one from New Jericho, too."
+      ],
+      "Kitchen1": [
+        "Kitchen",
+        "Nothing special."
+      ],
+      "Kitchen2": [
+        "Kitchen",
+        "There is nothing useful here."
+      ],
+      "Microwave": [
+        "Microwave",
+        "I don't see anything interesting here."
+      ],
+      "Table": [
+        "Table",
+        "Hell, everything was fine yesterday.",
+        "What happened?"
+      ]
+    },
+    "HouseLevel2": {
+      "NeighborDoor": [
+        "Door",
+        "I can't go back.",
+        "I need to find out what's happening."
+      ],
+      "Door202": [
+        "Door",
+        "I have never seen people living here.",
+        "But I have heard sounds coming from the apartment."
+      ],
+      "Door203": [
+        "Door",
+        "I don’t know who lives here."
+      ],
+      "Door204": [
+        "Door",
+        "The last tenants of this apartment were evicted a long time ago.",
+        "In New Jericho, most people can't even afford a place like this."
+      ],
+      "Elevator": [
+        "Elevator",
+        "I hope the elevator still works."
+      ],
+      "ElevatorButton": [
+        "Button"
+      ]
+    },
+    "HouseLevel3": {
+      "GuyDoor": [
+        "Door",
+        "This is my apartment.",
+        "I got it because of the job that I was offered in this city."
+      ],
+      "Button1": [],
+      "Door302": [
+        "Door",
+        "Here lives a lonely old woman.",
+        "She is ill and does not understand what's happening around her.",
+        "Her son comes to visit every day."
+      ],
+      "Door303": [
+        "Door",
+        "I don’t know who lives here."
+      ],
+      "Door304": [
+        "Door",
+        "Some family lives here.",
+        "Two kids and their parents."
+      ],
+      "Elevator": [
+        "Elevator",
+        "The elevator most likely runs on emergency power."
+      ],
+      "ElevatorButton": [
+        "Button"
+      ]
+    },
+    "HouseLevel1": {
+      "Button1": [],
+      "Door101": [
+        "Door",
+        "The people in this apartment change every two weeks."
+      ],
+      "Door102": [
+        "Door",
+        "At first I lived in this unit, but then I managed to move to another one in the same building.",
+        "This place is awful."
+      ],
+      "ManDoor": [
+        "Door",
+        "A doctor lives in this apartment.",
+        "Sometimes he's gone for a month at a time.",
+        "And sometimes he stays at home for long stretches.",
+        "We can hear loud noises coming from his place."
+      ],
+      "Door104": [
+        "Door",
+        "Nobody lives here because of the noise in the apartment next door.",
+        "No one can stop it."
+      ],
+      "Elevator": [
+        "Elevator",
+        "This elevator doesn't work very well."
+      ],
+      "ElevatorButton": [
+        "Button"
+      ]
+    },
+    "GuyCorridor": {
+      "Switcher": [
+        "Switch"
+      ],
+      "Door1": [
+        "Door"
+      ],
+      "Door2": [
+        "Door"
+      ],
+      "Door3": [
+        "Door"
+      ],
+      "Dog": [
+        "Bowl",
+        "My dog died at the same time as all the other animals in the city.",
+        "Stigmata has a stronger influence on them."
+      ],
+      "Door4": [
+        "Door"
+      ],
+      "Phone": [
+        "Intercom",
+        "It hasn't been working for a long time."
+      ],
+      "Picture": [
+        "Painting",
+        "..."
+      ]
+    },
+    "GuyKitchen": {
+      "Switcher": [
+        "Switch"
+      ],
+      "Door": [
+        "Door"
+      ],
+      "Food": [],
+      "Fridge": [
+        "Fridge",
+        "There is still some food left."
+      ],
+      "Kitchen1": [
+        "Kitchen",
+        "Nothing special."
+      ],
+      "Microwave": [
+        "Microwave",
+        "I have no time for food right now."
+      ]
+    },
+    "GuyBathroom": {
+      "Door": [
+        "Door"
+      ],
+      "Switcher": [
+        "Switch"
+      ],
+      "Bath": [
+        "Bath",
+        "What the fuck..."
+      ],
+      "Mirror": [
+        "Mirror",
+        "Crap..."
+      ],
+      "Facet": [
+        "Faucet",
+        "What the hell is this shit?"
+      ],
+      "Toilet": [
+        "Toilet",
+        "I'm not going near that."
+      ]
+    },
+    "ManCorridor": {
+      "Boxes": [
+        "Boxes",
+        "A bunch of boxes."
+      ],
+      "Server": [
+        "Server",
+        "It looks like a small server."
+      ],
+      "BigServer": [
+        "Big server",
+        "Looks impressive."
+      ],
+      "DoorToBathroom": [
+        "Door"
+      ],
+      "DoorToKitchen": [
+        "Door"
+      ],
+      "DoorToOutside": [
+        "Door"
+      ],
+      "DoorToRoom": [
+        "Door"
+      ]
+    },
+    "ManBathroom": {
+      "Door": [
+        "Door"
+      ],
+      "Bath": [
+        "Bath",
+        "It's filled with some black, viscuous liquid."
+      ],
+      "Generator": [
+        "Generator",
+        "It looks like a generator.",
+        "Why is it in the bathtub?",
+        "To keep it cool, maybe?"
+      ],
+      "Server": [
+        "Terminal",
+        "It's connected to a generator.",
+        "I might be able to control the power supply with it."
+      ],
+      "Switcher": [
+        "Switch"
+      ]
+    },
+    "ManKitchen": {
+      "Door": [
+        "Door"
+      ],
+      "Board": [
+        "Whiteboard",
+        "These equations...",
+        "What was he trying to do?"
+      ],
+      "Books": [
+        "Books",
+        "Many books on IGME technologies, physics and mathematics."
+      ],
+      "Food": [
+        "Canned food",
+        "A stock like this would last for a long time.",
+        "He could stay here for months with this."
+      ],
+      "Notes": [
+        "Blueprint",
+        "Here is a diagram of some kind of device.",
+        "Some parts of the blueprint remind me of the devices that I've seen around the apartment."
+      ],
+      "Paper": [
+        "Notes",
+        "A list of devices with detailed descriptions.",
+        "Where did he get all of this from?"
+      ],
+      "Switcher": [
+        "Switch"
+      ]
+    },
+    "ManRoom": {
+      "Door": [
+        "Door"
+      ],
+      "MainServerCenter": [
+        "Terminal",
+        "This must be the main terminal."
+      ],
+      "LeftServer": [
+        "Terminal",
+        "This must be the main terminal."
+      ],
+      "RightServer": [
+        "Terminal",
+        "This must be the main terminal."
+      ],
+      "Switcher": [
+        "Switch"
+      ]
+    },
+    "NeighborRoomPuzzle": {
+      "Locker": [
+        "Switch"
+      ],
+      "DoorToCorridor": [
+        "Door"
+      ],
+      "Bed": [
+        "Bed",
+        "The blood is gone...",
+        "How is this possible?"
+      ],
+      "Boxes": [
+        "Boxes",
+        "They're not important."
+      ],
+      "Chair": [
+        "Chair",
+        "What happened?",
+        "How did I get here again?"
+      ],
+      "Cupboard": [
+        "Cupboard",
+        "Nothing changed here."
+      ],
+      "Nightstand": [
+        "Bedside table",
+        "Everything seems to be like it was before."
+      ],
+      "RedLamp": [
+        "Night light",
+        "Nothing interesting."
+      ],
+      "Picture": [
+        "Painting",
+        "It's turned completely black."
+      ],
+      "Shelf": [
+        "Shelf",
+        "Nothing changed."
+      ],
+      "Window": [
+        "Window",
+        "It’s completely dark out there.",
+        "I can't see anything."
+      ],
+      "RedBed": [
+        "Bed",
+        "Where did the candles come from?"
+      ],
+      "RedBoxes": [
+        "Boxes",
+        "Fuck..."
+      ],
+      "RedChair": [
+        "Chair",
+        "There is a strange bag on the chair.",
+        "Something is moving inside of it."
+      ],
+      "RedWindow": [
+        "Window",
+        "Pitch black.",
+        "It's so quiet."
+      ],
+      "RedCupboard": [
+        "Cupboard",
+        "I don't want to look inside."
+      ],
+      "RedNightstand": [
+        "Bedside table",
+        "That didn't change."
+      ],
+      "RedPicture": [
+        "Painting",
+        "It's a mess.",
+        "I can't make out anything."
+      ],
+      "RedRedLamp": [
+        "Night light",
+        "The night light and bedside table remained the same.",
+        "Everything else turned into this..."
+      ],
+      "RedShelf": [
+        "Shelf",
+        "Some old books.",
+        "I can't read their names."
+      ],
+      "Dropper": [],
+      "Machine": [],
+      "BlueMachine": [
+        "Life support apparatus",
+        "Doctor: Don't you dare touch that."
+      ],
+      "BlueLocker": [
+        "Switch",
+        "Doctor: Don't touch that."
+      ],
+      "BlueBed": [
+        "Bed",
+        "Doctor: You probably don't fully understand what is happening.",
+        "Doctor: There is no point in explaining anything to you.",
+        "Doctor: It's not my problem."
+      ],
+      "BlueChair": [
+        "Chair",
+        "Doctor: Come on, sit down, take a rest.",
+        "Doctor: Heh heh heh..."
+      ],
+      "BlueDropper": [
+        "Dropper",
+        "Doctor: You'd better not touch that.",
+        "Doctor: I don't trust you."
+      ],
+      "BlueNightstand": [
+        "Bedside table",
+        "Doctor: Looks familiar, right?",
+        "Doctor: Heh."
+      ],
+      "BlueWindow": [
+        "Window",
+        "Doctor: Look, what a beautiful day!"
+      ],
+      "Drugs": [
+        "Medicines"
+      ],
+      "Girl": [
+        "Light"
+      ],
+      "Flower": [
+        "Flower",
+        "Now everything is all right."
+      ]
+    },
+    "NeighborCorridorPuzzle": {
+      "Background": [],
+      "Switcher": [
+        "Switch"
+      ],
+      "DoorToKitchen": [
+        "Door"
+      ],
+      "DoorToBathroom": [
+        "Door"
+      ],
+      "DoorToRoom": [
+        "Door"
+      ],
+      "DoorToOutside": [
+        "Door"
+      ],
+      "Aqua": [
+        "Aquarium",
+        "Everything looks the same."
+      ],
+      "Cross": [
+        "Cross",
+        "I feel something stirring..."
+      ],
+      "Mirror": [
+        "Mirror",
+        "I don't want to look into it."
+      ],
+      "Phone": [
+        "Intercom",
+        "I doubt it works."
+      ],
+      "RedAqua": [
+        "Aquarium",
+        "It's completely filled with blood."
+      ],
+      "RedMirror": [
+        "Mirror",
+        "The reflection isn't mine..."
+      ],
+      "RedCross": [
+        "Crosses",
+        "There are too many of them."
+      ],
+      "RedPhone": [
+        "Intercom",
+        "None of this makes any sense."
+      ],
+      "Door1": [
+        "Door"
+      ],
+      "Door2": [
+        "Door"
+      ],
+      "Door3": [
+        "Door"
+      ],
+      "Door4": [
+        "Door"
+      ],
+      "Clock": [],
+      "BlueAqua": [
+        "Water cooler",
+        "Doctor: I'll allow you to drink some water."
+      ],
+      "BlueClock": [
+        "Clock",
+        "Doctor: Don't look at it.",
+        "Doctor: It's not working anyway."
+      ],
+      "Flower": [
+        "Flower"
+      ]
+    },
+    "NeighborBathroomPuzzle": {
+      "DoorToCorridor": [
+        "Door"
+      ],
+      "DoorToLongCorridor": [
+        "Passage"
+      ]
+    },
+    "NeighborKitchenPuzzle": {
+      "Chair1": [
+        "Chair",
+        "Hell..."
+      ],
+      "Chair2": [
+        "Chair",
+        "Hell..."
+      ],
+      "Clock": [
+        "Clock",
+        "It's not working."
+      ],
+      "Fridge": [
+        "Fridge",
+        "There is nothing interesting here."
+      ],
+      "Kitchen1": [
+        "Kitchen",
+        "There's nothing to do here."
+      ],
+      "Kitchen2": [
+        "Kitchen",
+        "Nothing interesting."
+      ],
+      "Microwave": [
+        "Microwave",
+        "I don't need this right now."
+      ],
+      "Table": [
+        "Table",
+        "Nothing special."
+      ],
+      "Knife": [
+        "Drawers"
+      ],
+      "RedTable": [
+        "Flesh",
+        "What the hell is this?!"
+      ],
+      "Pot": [
+        "Flower pot",
+        "It seems to me that this could come in handy now."
+      ],
+      "DoorToCorridor": [
+        "Door"
+      ],
+      "Switcher": [
+        "Switch",
+        "Not working."
+      ],
+      "Door": [
+        "Door"
+      ],
+      "Cupboard": [],
+      "Dropper": [],
+      "Lamp": [],
+      "Machine": [],
+      "Meds": [],
+      "Stuff": [],
+      "Xray": [],
+      "Facet": [
+        "Faucet"
+      ],
+      "BlueClock": [
+        "Clock",
+        "Doctor: Time still works here."
+      ],
+      "BlueCupboard": [
+        "Cupboard",
+        "Strange Man: Don't open that."
+      ],
+      "BlueDropper": [
+        "Dropper",
+        "Doctor: Don't go near it.",
+        "Doctor: It could be still useful."
+      ],
+      "BlueLamp": [
+        "Lamp",
+        "Doctor: Why are you staring at everything?",
+        "Doctor: Never seen an operating room before?"
+      ],
+      "BlueMachine": [
+        "Apparatus",
+        "Doctor: Stay away from that thing."
+      ],
+      "BlueMeds": [
+        "Cupboard",
+        "Doctor: There's nothing for you there."
+      ],
+      "BlueStuff": [
+        "Instruments",
+        "Doctor: Leave them as they are."
+      ],
+      "BlueTable": [
+        "Couch",
+        "Doctor: Do you want to lie down?",
+        "Doctor: Ha ha ha."
+      ],
+      "BlueXray": [
+        "X-ray pictures",
+        "Doctor: You're lucky that this isn't your brain.",
+        "Doctor: Heh."
+      ]
+    },
+    "VideoEditorPuzzle": {
+      "Computer": [
+        "Computer",
+        "It's not connected to anything."
+      ],
+      "Monitor": [
+        "Monitor"
+      ]
+    },
+    "CandlesClip": {
+      "Candle1": [
+        "Candle"
+      ],
+      "Candle2": [
+        "Candle"
+      ],
+      "Candle3": [
+        "Candle"
+      ],
+      "Candle4": [
+        "Candle"
+      ],
+      "Candle5": [
+        "Candle"
+      ]
+    },
+    "FirstClip": {},
+    "ThirdClip": {},
+    "LastClip": {},
+    "GetClip": {
+      "Tape": [
+        "Tape"
+      ]
+    },
+    "VideoTransition2": {
+      "IGME": [
+        "IGME"
+      ]
+    },
+    "AfterVideo": {
+      "Door": [
+        "Door"
+      ]
+    },
+    "AfterHospital": {
+      "Dan": [
+        "Man in a shirt with a cat in a jar"
+      ]
+    },
+    "HospitalCorridor": {
+      "Door2": [
+        "Door"
+      ],
+      "Door1": [
+        "Door"
+      ],
+      "Door3": [
+        "Door"
+      ],
+      "Door4": [
+        "Door"
+      ]
+    },
+    "HospitalRoom": {
+      "Doctor": [
+        "Doctor"
+      ]
+    },
+    "TalkRoom": {
+      "Door2": [
+        "Door"
+      ],
+      "Door": [
+        "Door"
+      ]
+    },
+    "Class11": {
+      "Door": [
+        "Door"
+      ],
+      "Portal": [
+        "Light",
+        "The phone vibrates when it's near the light."
+      ]
+    },
+    "Class12": {
+      "Door": [
+        "Door"
+      ]
+    },
+    "Class13": {
+      "Door": [
+        "Door"
+      ]
+    },
+    "Class14": {
+      "Door": [
+        "Door"
+      ],
+      "Portal": [
+        "Light",
+        "The phone vibrates when it's near the light."
+      ]
+    },
+    "Class21": {
+      "Door": [
+        "Door"
+      ]
+    },
+    "Class22": {
+      "Door": [
+        "Door"
+      ]
+    },
+    "Class23": {
+      "Door": [
+        "Door"
+      ],
+      "Portal": [
+        "Light",
+        "The phone vibrates when it's near the light."
+      ]
+    },
+    "Class24": {
+      "Door": [
+        "Door"
+      ],
+      "Portal": [
+        "Light",
+        "The phone vibrates when it's near the light."
+      ]
+    },
+    "UniLevel1": {
+      "DoorToOutside": [
+        "Door"
+      ],
+      "DoorToClass1": [
+        "Door"
+      ],
+      "DoorToClass2": [
+        "Door"
+      ],
+      "DoorToClass3": [
+        "Door"
+      ],
+      "DoorToClass4": [
+        "Door"
+      ],
+      "Stairs": [
+        "Stairs"
+      ],
+      "DoorToSomewhere": [
+        "Door",
+        "Locked."
+      ]
+    },
+    "UniLevel2": {
+      "DoorToTalkRoom": [
+        "Door"
+      ],
+      "DoorToClass1": [
+        "Door"
+      ],
+      "DoorToClass2": [
+        "Door"
+      ],
+      "DoorToClass3": [
+        "Door"
+      ],
+      "DoorToClass4": [
+        "Door"
+      ],
+      "Stairs": [
+        "Stairs"
+      ]
+    },
+    "Balcony": {
+      "Door2": [
+        "Door"
+      ],
+      "Moon": [
+        "Moon",
+        "I know something."
+      ]
+    },
+    "HomeLevel1": {
+      "Ladder": [
+        "Stairs",
+        "I can't go there.",
+        "Something stops me."
+      ],
+      "Mirror": [
+        "Mirror",
+        "What no one knows about."
+      ],
+      "DoorToSomewhere": [
+        "Door",
+        "I can't go there."
+      ],
+      "DoorToOutSide": [
+        "Door"
+      ],
+      "DoorToRoom1": [
+        "Door"
+      ],
+      "DoorToRoom2": [
+        "Door"
+      ],
+      "DoorToRoom3": [
+        "Door"
+      ],
+      "DoorToRoom4": [
+        "Door"
+      ],
+      "Phone": [
+        "Phone",
+        "I forgot something."
+      ],
+      "Picture1": [
+        "Painting",
+        "Did someone come here a couple of days ago?"
+      ],
+      "Picture2": [
+        "Painting",
+        "It seems like the beginning of a thunderstorm."
+      ],
+      "Switcher1": [
+        "Switch"
+      ],
+      "Switcher2": [
+        "Switch"
+      ]
+    },
+    "HomeLevel2": {
+      "DoorToBalcony": [
+        "Door"
+      ],
+      "DoorToRoom1": [
+        "Door"
+      ],
+      "DoorToRoom2": [
+        "Door"
+      ],
+      "DoorToRoom3": [
+        "Door"
+      ],
+      "DoorToRoom4": [
+        "Door"
+      ],
+      "Ladder": [
+        "Stairs",
+        "I can't go down.",
+        "I just can't."
+      ],
+      "Attic": [
+        "Ladder",
+        "No. It lives up there."
+      ],
+      "Picture1": [
+        "Painting",
+        "It doesn't work."
+      ],
+      "Picture2": [
+        "Painting",
+        "It makes no sense."
+      ],
+      "Switcher": [
+        "Switch"
+      ]
+    },
+    "RedMoon": {},
+    "Room11": {
+      "Door": [
+        "Door"
+      ],
+      "Door2": [
+        "Door",
+        "It's too early."
+      ],
+      "Clock": [
+        "Clock",
+        "They arrive early in the morning."
+      ],
+      "Fridge": [
+        "Fridge",
+        "No. Something will happen."
+      ],
+      "Switcher": [
+        "Switch"
+      ],
+      "Portal": [
+        "Light",
+        "The light bulb in my pocket is vibrating..."
+      ]
+    },
+    "Room12": {
+      "Door": [
+        "Door"
+      ],
+      "Mirror": [
+        "Mirror",
+        "Time after time, it's exactly the same thing."
+      ],
+      "Switcher": [
+        "Switch"
+      ]
+    },
+    "Room13": {
+      "Door": [
+        "Door"
+      ],
+      "Cupboard1": [
+        "Cupboard",
+        "This makes no sense."
+      ],
+      "Cupboard2": [
+        "Cupboard",
+        "Where am I going?"
+      ],
+      "Switcher": [
+        "Switch"
+      ]
+    },
+    "Room14": {
+      "Door": [
+        "Door"
+      ],
+      "Cupboard": [
+        "Cupboard",
+        "They are talking in the dark."
+      ],
+      "Sofa": [
+        "Sofa",
+        "One more day."
+      ],
+      "Switcher": [
+        "Switch"
+      ],
+      "TV": [
+        "Where does all of this noise come from?"
+      ],
+      "Portal": [
+        "Light",
+        "The light bulb in my pocket is vibrating..."
+      ]
+    },
+    "Room21": {
+      "Door": [
+        "Door"
+      ],
+      "Bed": [
+        "Bed",
+        "Day after day."
+      ],
+      "Diary": [
+        "Diary",
+        "I don’t remember how long I've been here.",
+        "Events keep repeating.",
+        "But each time they are a little different."
+      ],
+      "Switcher": [
+        "Switch"
+      ],
+      "Key": [
+        "Key"
+      ]
+    },
+    "Room22": {
+      "Door": [
+        "Door"
+      ],
+      "Bed": [
+        "Bed",
+        "..."
+      ],
+      "Switcher": [
+        "Switch"
+      ]
+    },
+    "Room23": {
+      "Door": [
+        "Door"
+      ],
+      "Cupboard": [
+        "Table",
+        "They ruin everything."
+      ],
+      "Portal": [
+        "Light",
+        "The light bulb in my pocket is vibrating..."
+      ]
+    },
+    "Room24": {
+      "Door2": [
+        "Door"
+      ],
+      "Switcher": [
+        "Switch"
+      ],
+      "Mirror": [
+        "Mirror",
+        "So very far."
+      ],
+      "Portal": [
+        "Light",
+        "The light bulb in my pocket is vibrating..."
+      ]
+    },
+    "CorridorIGME": {
+      "Door1": [
+        "Door",
+        "I can't go back."
+      ],
+      "Door2": [
+        "Door"
+      ]
+    },
+    "Museum": {
+      "Door1": [
+        "Door"
+      ],
+      "Door2": [
+        "Door"
+      ],
+      "Expo1": [
+        "IGME-1",
+        "I wasn't born when the first model appeared.",
+        "It was developed forty years ago.",
+        "A clumsy and slow machine that barely did anything.",
+        "Only a few people in the world understood the potential of these developments."
+      ],
+      "Expo2": [
+        "IGME-2E",
+        "Research in this area quickly led to greater success.",
+        "Scientists learned how to receive some signals on the device and send their own.",
+        "In laboratory conditions they were able to change the room temperature by thousandths of one degree.",
+        "There was still a lot of work to do..."
+      ],
+      "Expo3": [
+        "IGME-7",
+        "Everyone remembers the moment when this model was released.",
+        "Something happened that almost nobody could believe.",
+        "With the help of these machines... they made contact with an otherworldly entity.",
+        "Its presence could be found anywhere in the universe.",
+        "Mankind learned to control the laws of physics.",
+        "Deviations in statistical values gradually increased, but by the time anyone noticed it was already too late."
+      ],
+      "Expo4": [
+        "IGME-X",
+        "When the general public was given access to this technology, a strange phenomenon occurred.",
+        "Anyone could communicate directly with the entity...",
+        "But their minds gradually degenerated as an unknown disease afflicted the body.",
+        "We called the disease Stigmata."
+      ]
+    },
+    "Room1": {
+      "DoorToRoom2": [
+        "Door"
+      ],
+      "Corpse": [
+        "Corpse"
+      ]
+    },
+    "Room2": {
+      "DoorToRoom1": [
+        "Door"
+      ],
+      "DoorToRoom2": [
+        "Door"
+      ]
+    },
+    "Room3": {
+      "DoorToRoom2": [
+        "Door"
+      ],
+      "DoorToRoom4": [
+        "Door"
+      ],
+      "DoorToRoom5": [
+        "Door"
+      ],
+      "DoorToRoom7": [
+        "Door"
+      ]
+    },
+    "Room4": {
+      "DoorToRoom3": [
+        "Door"
+      ],
+      "DoorToRoom5": [
+        "Door"
+      ]
+    },
+    "Room5": {
+      "DoorToRoom3": [
+        "Door"
+      ],
+      "DoorToRoom4": [
+        "Door"
+      ],
+      "DoorToRoom6": [
+        "Door"
+      ]
+    },
+    "Room7": {
+      "DoorToRoom3": [
+        "Door"
+      ],
+      "DoorToRoom8": [
+        "Door"
+      ]
+    },
+    "Room8": {
+      "DoorToRoom7": [
+        "Door"
+      ],
+      "DoorToRoom9": [
+        "Door"
+      ]
+    },
+    "Room9": {
+      "DoorToRoom8": [
+        "Door"
+      ],
+      "DoorToRoom10": [
+        "Door"
+      ]
+    },
+    "Room11a": {
+      "DoorToRoom10": [
+        "Door"
+      ]
+    },
+    "Room6": {
+      "Terminal": [
+        "Terminal"
+      ],
+      "DoorToRoom5": [
+        "Door"
+      ]
+    },
+    "Room10": {
+      "DoorToRoom9": [
+        "Door"
+      ],
+      "DoorToRoom11": [
+        "Door"
+      ],
+      "DoorToFinale": [
+        "Door"
+      ]
+    },
+    "VideoTransition1": {
+      "Computer": [],
+      "Monitor": [
+        "Monitor"
+      ]
+    },
+    "Street1": {},
+    "TalkRoomCutscene": {},
+    "FinalCorridor2": {
+      "Enemy": [
+        "We're so close..."
+      ],
+      "Enemy (1)": [
+        "Can you feel it?"
+      ],
+      "Enemy (2)": [
+        "It's near..."
+      ],
+      "Enemy (3)": [
+        "It's beautiful..."
+      ]
+    },
+    "FinalNeighborCorridor": {
+      "DoorToRoom": [
+        "Door"
+      ]
+    },
+    "Final": {
+      "BlueMachine": [
+        "Life support apparatus"
+      ]
+    },
+    "Street2": {},
+    "FinalFinal": {},
+    "FinalCorridor1": {
+      "Background": [],
+      "Background (1)": [],
+      "Background (2)": [],
+      "Background (3)": []
+    },
+    "Loading": {},
+    "LongCorridor": {
+      "Background": []
+    },
+    "LastSupper": {
+      "Background": [],
+      "P": [],
+      "People": [],
+      "Table": []
+    },
+    "Logo": {},
+    "Elevator": {},
+    "Immanence": {},
+    "Credits": {},
+    "FinalWords": {},
+    "MainMenu": {},
+    "FinalHospital": {}
+  },
+  "messageText": {
+    "IntroText": [
+      "Do you remember the day they called us?",
+      "What",
+      "with each day",
+      "draws you",
+      "deeper and deeper",
+      "to the bottom?"
+    ],
+    "NeighborRoomLocker": [
+      "Nothing happens.",
+      "The power must be out."
+    ],
+    "NeighborCorridorLocker": [
+      "It's not working."
+    ],
+    "NoWayHouse": [
+      "I don't need to go there."
+    ],
+    "Cancel": [
+      "Do nothing."
+    ],
+    "HouseGoLevel1": [
+      "First floor."
+    ],
+    "HouseGoLevel2": [
+      "Second floor."
+    ],
+    "HouseGoLevel3": [
+      "Third floor."
+    ],
+    "DisableMainServer": [
+      "Turn it off."
+    ],
+    "NeedToDisableMainServer": [
+      "I don't think I should touch it."
+    ],
+    "DisabledMainServer": [
+      "Everything is turned off.",
+      "Now I need to somehow restart this."
+    ],
+    "EnableGenerator": [
+      "Turn on the generator."
+    ],
+    "NoPower": [
+      "No power."
+    ],
+    "EnabledGenerator": [
+      "Looks like the generator is working now.",
+      "I still need to adjust the power supply, though."
+    ],
+    "PowerUp": [
+      "Increase the power supply."
+    ],
+    "PowerDown": [
+      "Decrease the power supply."
+    ],
+    "CantPowerUp": [
+      "I can't increase the power supply any more."
+    ],
+    "CantPowerDown": [
+      "I can't decrease the power supply any more."
+    ],
+    "TooMuchPower": [
+      "Shit!",
+      "Everything went down.",
+      "Looks like I set the power supply too high."
+    ],
+    "NotEnoughPower": [
+      "Nothing happened.",
+      "I think the power supply is set too low."
+    ],
+    "EnabledGeneratorPower": [
+      "Looks like I got the power supply set correctly.",
+      "The generator is working as it should."
+    ],
+    "AlrightHere": [
+      "Everything is okay here."
+    ],
+    "EnablePower": [
+      "Turn on."
+    ],
+    "Enable": [
+      "Turn on."
+    ],
+    "NeedToEnableCommutator": [
+      "The generator's working, but for some reason there's no power here."
+    ],
+    "EnabledCommutator": [
+      "Now it's on."
+    ],
+    "OpenedPort": [
+      "I opened the port."
+    ],
+    "OpenedPortAlready": [
+      "I already opened this port."
+    ],
+    "OpenedAllPorts": [
+      "All of the ports are open.",
+      "Everything should be getting power now."
+    ],
+    "EnabledBigServer": [
+      "This should help."
+    ],
+    "NeedToEnableBigServer": [
+      "The power's on, but something is still missing.",
+      "It's not receiving any data."
+    ],
+    "NeedToEnableBoundServers": [
+      "In order to start the main system, all subsystems must be on."
+    ],
+    "EnabledBoundServers": [
+      "All systems are on now."
+    ],
+    "OpenFirstPort": [
+      "Open the first port."
+    ],
+    "OpenSecondPort": [
+      "Open the second port."
+    ],
+    "OpenThirdPort": [
+      "Open the third port."
+    ],
+    "Locked": [
+      "It's locked.",
+      "I can't go outside."
+    ],
+    "DontKnowWhatToSay": [
+      "..."
+    ],
+    "SomethingIsNotHere": [
+      "Something is missing."
+    ],
+    "NiceFlower": [
+      "Nice flower."
+    ],
+    "SomeMeds": [
+      "Some medicine. Looks like they're all sedatives."
+    ],
+    "WhatTheFuckFlesh": [
+      "What the hell is this?!",
+      "Fuck..."
+    ],
+    "YouCanWashYourHands": [
+      "Doctor: Before you touch anything, wash your hands here."
+    ],
+    "MayNeedSomething": [
+      "There might be something useful in there."
+    ],
+    "DoneHere": [
+      "Everything is alright now."
+    ],
+    "NeedFlower": [
+      "I need to get it.",
+      "But I need something to carry it in."
+    ],
+    "GotFlower": [
+      "Got it. It smells nice."
+    ],
+    "GotDrugs": [
+      "These may come in handy.."
+    ],
+    "NeedToWashPot": [
+      "I need to wash the flesh off of the pot first."
+    ],
+    "WashPot": [
+      "I washed the pot."
+    ],
+    "AlreadyWashedPot": [
+      "Nothing more to do here."
+    ],
+    "FoundKnife": [
+      "A knife!",
+      "That's just what I need."
+    ],
+    "FoundFlesh": [
+      "I can put the flower in this pot.",
+      "I can't get it."
+    ],
+    "NeedPot": [
+      "The flesh has grown up around the pot. How can I get it out?"
+    ],
+    "GotPot": [
+      "The medicine worked.",
+      "Nice."
+    ],
+    "EnoughFlesh": [
+      "I don’t want to be near this anymore..."
+    ],
+    "NeedDrugsForFlesh": [
+      "The flesh just hardens when I try to cut the pot away.",
+      "I'll need something else to loosen it up."
+    ],
+    "Locked2": [
+      "It's locked."
+    ],
+    "NeedWeapon": [
+      "I need a pass."
+    ],
+    "OpenedlastSilentHillDoor": [
+      "A door opened somewhere."
+    ],
+    "NeedToOpenDoor": [
+      "This door doesn’t open here."
+    ],
+    "GotWeapon": [
+      "A gun and a pass are here.",
+      "I'd better take them."
+    ],
+    "AlreadyGotWeapon": [
+      "Nothing more here."
+    ],
+    "NeighborRoomWakeUp": [
+      "What happened?",
+      "I need to get home."
+    ],
+    "GotToHome": [
+      "I'm home.",
+      "Maybe I can use my phone to find out what's going on."
+    ],
+    "GotToHomeBathroom": [
+      "Shit!",
+      "What the hell is this?!"
+    ],
+    "GotToVideoDream": [
+      "Loading in progress.",
+      "I can see something..."
+    ],
+    "MeetDoctorInHospital": [
+      "Doctor: At first the symptoms were harmless.",
+      "Doctor: Marks on the body, slight dizziness, cold symptoms.",
+      "Doctor: But everything has changed.",
+      "Doctor: Everyone in the city became infected with stigmata.",
+      "Doctor: I'm not sure that there is anything we can do...",
+      "Doctor: You don't look so good yourself.",
+      "Doctor: You'll start feeling it soon.",
+      "Doctor: If you can get to the main terminal, maybe we can do something.",
+      "Doctor: That piece of shit is the cause of all this.",
+      "Doctor: I'll help you as much as I can."
+    ],
+    "Street1FeelBad": [
+      "What was that?",
+      "Where am I now?",
+      "Hm.",
+      "My throat's a little sore."
+    ],
+    "Street1FeelVeryBad": [
+      "Damn... I'm feeling bad..."
+    ],
+    "TalkWithStrangers": [
+      "Man in a robe: How did you get here?",
+      "You: Who the hell are you?",
+      "Man in a robe: You know something, or you would have died with the rest.",
+      "You: ... what do you want from me?",
+      "Man in a robe: You don't have a lot of time left.",
+      "Man in a robe: You're coming with us..."
+    ],
+    "ThisIsStrange": [
+      "Man in a shirt with a cat in a jar: This is all very strange."
+    ],
+    "FinalWords": [
+      "I watched the stars burn out",
+      "trying to pretend that I care."
+    ],
+    "CantLeaveMansFlat": [
+      "I can't go back yet."
+    ],
+    "UI_Continue": [
+      "Continue"
+    ],
+    "UI_Start": [
+      "Start"
+    ],
+    "UI_Options": [
+      "Options"
+    ],
+    "UI_Exit": [
+      "Exit"
+    ],
+    "UI_Sound": [
+      "Sounds"
+    ],
+    "UI_Language": [
+      "Language"
+    ],
+    "UI_Back": [
+      "Back"
+    ],
+    "UI_GameBy": [
+      "a game by Denis Vyatkin"
+    ],
+    "UI_Nyctophiliac": [
+      "music by Nyctophiliac"
+    ],
+    "UI_Gouldenberg": [
+      "music by Gouldenberg"
+    ],
+    "UI_Unity": [
+      "made in Unity"
+    ],
+    "UI_ThankYou": [
+      "Thank you for playing"
+    ],
+    "UI_GameSaved": [
+      "Game saved"
+    ],
+    "StrangeMan": [
+      "Doctor"
+    ],
+    "Girl": [
+      "......."
+    ],
+    "Ads": [
+      "NEW JERICHO Inc."
+    ],
+    "Epilogue": [
+      "We talked often at that time...",
+      "When you got worse, sometimes you started talking about strange things.",
+      "You described a whole world that fit inside your head",
+      "and the catastrophe that happened in it.",
+      "You spoke of a divine being whose existence had been scientifically proven",
+      "and about stigmata.",
+      "You talked about the device you would need to turn off to fix everything.",
+      "I wrote it all down."
+      "I'm still trying to rearrange these fragments into a picture that I can understand."
+    ],
+    "UI_CirclesUnderEyes": [
+      "music by Круги под глазами"
+    ],
+    "UI_Writing": [
+      "English writing by Black Cat"
+    ]
+  },
+  "contactsText": {
+    "StrangeMan": {
+      "GotPhone": [
+        {
+          "isYou": false,
+          "text": "Hey, are you there?"
+        },
+        {
+          "isYou": false,
+          "text": "As you probably noticed"
+        },
+        {
+          "isYou": false,
+          "text": "Things are really bad out there"
+        },
+        {
+          "isYou": false,
+          "text": "I don't think anyone is still alive in New Jericho"
+        },
+        {
+          "isYou": false,
+          "text": "Except you"
+        },
+        {
+          "isYou": false,
+          "text": "Funny, right?"
+        },
+        {
+          "isYou": false,
+          "text": "If you want to help, there is one thing you can do"
+        },
+        {
+          "isYou": false,
+          "text": "My apartment is on the first floor"
+        },
+        {
+          "isYou": false,
+          "text": "Come on in, it's not locked"
+        },
+        {
+          "isYou": false,
+          "text": "I'll explain everything there"
+        }
+      ],
+      "GotToManFlat": [
+        {
+          "isYou": false,
+          "text": "So here you are"
+        },
+        {
+          "isYou": false,
+          "text": "First you need to turn off all this crap"
+        },
+        {
+          "isYou": false,
+          "text": "And then turn it on again"
+        },
+        {
+          "isYou": false,
+          "text": "Sounds easy, right?"
+        },
+        {
+          "isYou": false,
+          "text": "I think you can figure it out"
+        },
+        {
+          "isYou": false,
+          "text": "Heh"
+        }
+      ]
+    },
+    "Girl": {
+      "EnabledGeneratorPower": [
+        {
+          "isYou": false,
+          "text": "hi"
+        },
+        {
+          "isYou": false,
+          "text": "what are you doing?"
+        },
+        {
+          "isYou": false,
+          "text": "we are all in the underground IGME complex"
+        },
+        {
+          "isYou": false,
+          "text": "they said it's safe here"
+        }
+      ],
+      "CheckedPorts": [
+        {
+          "isYou": false,
+          "text": "you need to get here too"
+        },
+        {
+          "isYou": false,
+          "text": "it's dangerous there"
+        },
+        {
+          "isYou": false,
+          "text": "outside"
+        }
+      ],
+      "CheckedServers": [
+        {
+          "isYou": false,
+          "text": "come here"
+        }
+      ],
+      "Street1": [
+        {
+          "isYou": false,
+          "text": "what happened?"
+        },
+        {
+          "isYou": false,
+          "text": "i thought you were dead"
+        },
+        {
+          "isYou": false,
+          "text": "where did everyone go?"
+        },
+        {
+          "isYou": false,
+          "text": "its so dark hre"
+        }
+      ],
+      "Street12": [
+        {
+          "isYou": false,
+          "text": "what do we do now??"
+        },
+        {
+          "isYou": false,
+          "text": "i feel so bad.."
+        },
+        {
+          "isYou": false,
+          "text": "we're all probably gonna die soon))"
+        },
+        {
+          "isYou": false,
+          "text": "))0)"
+        }
+      ],
+      "Street21": [
+        {
+          "isYou": false,
+          "text": "beautiful i guess)"
+        },
+        {
+          "isYou": false,
+          "text": "they so dreamed"
+        },
+        {
+          "isYou": false,
+          "text": "andme. God, send rot"
+        },
+        {
+          "isYou": false,
+          "text": "yes,, said it's cool. doctors"
+        },
+        {
+          "isYou": false,
+          "text": "only by those, it's possible"
+        }
+      ],
+      "Street22": [
+        {
+          "isYou": false,
+          "text": "they are good,  doctors just playing"
+        },
+        {
+          "isYou": false,
+          "text": "even twentyfive"
+        },
+        {
+          "isYou": false,
+          "text": "and me"
+        },
+        {
+          "isYou": false,
+          "text": "im dyng"
+        },
+        {
+          "isYou": false,
+          "text": "so ill waitt.."
+        }
+      ],
+      "Eva1": [
+        {
+          "isYou": false,
+          "text": " - what? too lare)"
+        }
+      ],
+      "Eva2": [
+        {
+          "isYou": false,
+          "text": "0 - and what IGME, noone is afrid?"
+        },
+        {
+          "isYou": false,
+          "text": "0 - me, noticed and late"
+        }
+      ],
+      "Eva3": [
+        {
+          "isYou": false,
+          "text": "0 - also there, played out, and not too late noticed"
+        },
+        {
+          "isYou": false,
+          "text": "believe the main thing, and Variable withot models, willnot bein the had"
+        },
+        {
+          "isYou": false,
+          "text": "here, wanted to , say"
+        }
+      ],
+      "Eva4": [
+        {
+          "isYou": false,
+          "text": "Analgin is possible, and all that"
+        },
+        {
+          "isYou": false,
+          "text": "515"
+        },
+        {
+          "isYou": false,
+          "text": "and me, God, sent to rot"
+        }
+      ],
+      "Final": [
+        {
+          "isYou": false,
+          "text": "It's getting quieter here."
+        },
+        {
+          "isYou": false,
+          "text": "Nothing's happening."
+        },
+        {
+          "isYou": false,
+          "text": "I can't move"
+        },
+        {
+          "isYou": false,
+          "text": "Do you remember the day they called us?"
+        },
+        {
+          "isYou": false,
+          "text": "What"
+        },
+        {
+          "isYou": false,
+          "text": "with each day"
+        },
+        {
+          "isYou": false,
+          "text": "draws you"
+        },
+        {
+          "isYou": false,
+          "text": "deeper and deeper"
+        },
+        {
+          "isYou": false,
+          "text": "to the bottom?"
+        }
+      ]
+    },
+    "Ads": {
+      "First": [
+        {
+          "isYou": false,
+          "text": "Your IGME kit has been delivered to your local post office. You can pick it up any day from 9am to 5pm. For an additional fee, the courier can deliver the kit to your home. Details on our website."
+        },
+        {
+          "isYou": false,
+          "text": "As thanks for your continued loyalty, we're giving you a free gift! Pick it up at any of our company’s stores."
+        },
+        {
+          "isYou": false,
+          "text": "DISCOUNTS!!! Discounts of 20% on all goods THIS WEEKEND ONLY!!!!!!!"
+        },
+        {
+          "isYou": false,
+          "text": "As thanks for your continued loyalty, we're giving you a free gift! Pick it up at any of our company’s stores."
+        },
+        {
+          "isYou": false,
+          "text": "As thanks for your continued loyalty, we're giving you a free gift! Pick it up at any of our company’s stores."
+        },
+        {
+          "isYou": false,
+          "text": "DISCOUNTS!!! Discounts of 20% on all goods THIS WEEKEND ONLY!!!!!!!"
+        },
+        {
+          "isYou": false,
+          "text": "As thanks for your continued loyalty, we're giving you a free gift! Pick it up at any of our company’s stores."
+        },
+        {
+          "isYou": false,
+          "text": "As thanks for your continued loyalty, we're giving you a free gift! Pick it up at any of our company’s stores."
+        },
+        {
+          "isYou": false,
+          "text": "As thanks for your continued loyalty, we're giving you a free gift! Pick it up at any of our company’s stores."
+        }
+      ]
+    }
+  },
+  "twitterText": [
+    {
+      "name": "New Jericho News",
+      "text": "The construction of the new IGME data center has been approved by the government. ig.me/12dk20",
+      "likes": 1,
+      "reposts": 5,
+      "sprite": "news"
+    },
+    {
+      "name": "j0hN",
+      "text": "My #IGME model crashed our server again. To hell with that shit!",
+      "likes": 15,
+      "reposts": 7,
+      "sprite": "john"
+    },
+    {
+      "name": "nnnnn",
+      "text": "finally friday",
+      "likes": 1,
+      "reposts": 0,
+      "sprite": "cortney"
+    },
+    {
+      "name": "Tripophob-228",
+      "text": "downloaded the pixel art game #Nyctophilia today, let's see what it's like",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": null
+    },
+    {
+      "name": "nnnnn",
+      "text": "Me: I have to pass these exams to enter university.",
+      "likes": 1,
+      "reposts": 0,
+      "sprite": "cortney"
+    },
+    {
+      "name": "j0hN",
+      "text": "#DisableIGME #DisableIGME #DisableIGME #DisableIGME",
+      "likes": 35,
+      "reposts": 74,
+      "sprite": "john"
+    },
+    {
+      "name": "nnnnn",
+      "text": "Brain: go watch anime",
+      "likes": 1,
+      "reposts": 0,
+      "sprite": "cortney"
+    },
+    {
+      "name": "nnnnn",
+      "text": "Me: ok))0))",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "cortney"
+    },
+    {
+      "name": "--//--",
+      "text": "What happened?",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "unknown1"
+    },
+    {
+      "name": "New Jericho News",
+      "text": "#IGME specialists make more money now, everyone else less. ig.me/4j94jf8",
+      "likes": 0,
+      "reposts": 3,
+      "sprite": "news"
+    },
+    {
+      "name": "Tripophob-228",
+      "text": "I hate this city #DisableIGME",
+      "likes": 115,
+      "reposts": 52,
+      "sprite": "tripophob"
+    },
+    {
+      "name": "Tripophob-228",
+      "text": "All my friends have already left the city, and I have to stay in this hole",
+      "likes": 4,
+      "reposts": 2,
+      "sprite": "tripophob"
+    },
+    {
+      "name": "New Jericho News",
+      "text": "Report: New Jericho residents' average health declines by 22%. ig.me/fjdu2hu4",
+      "likes": 1,
+      "reposts": 1,
+      "sprite": "news"
+    },
+    {
+      "name": "^_^",
+      "text": "//.@#%//\\\\%@.\\\\",
+      "likes": 6,
+      "reposts": 17,
+      "sprite": "unknown2"
+    },
+    {
+      "name": "Denis Vyatkin",
+      "text": "Still have a few levels left to do",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "denis"
+    },
+    {
+      "name": "Denis Vyatkin",
+      "text": "Work on the plot is completed, but there is still a lot of stuff to do with the gameplay",
+      "likes": 1,
+      "reposts": 0,
+      "sprite": "denis"
+    },
+    {
+      "name": "j0hN",
+      "text": "fuck this",
+      "likes": 15,
+      "reposts": 4,
+      "sprite": "john"
+    },
+    {
+      "name": "Tripophob-228",
+      "text": "Ok, in 5 minutes I’m starting a stream, playing #HuygensPrinciple",
+      "likes": 1,
+      "reposts": 0,
+      "sprite": "tripophob"
+    },
+    {
+      "name": "GOD IN US",
+      "text": "You must fear the LORD!!! If you cannot see what is happening, then you are IDIOTS and doomed to burn in HELL!!!!",
+      "likes": 20,
+      "reposts": 5,
+      "sprite": "jennet"
+    },
+    {
+      "name": "GOD IN US",
+      "text": "Lord have mercy on us",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "jennet"
+    },
+    {
+      "name": "Denis Vyatkin",
+      "text": "Thinking about making the soundtrack",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "denis"
+    },
+    {
+      "name": "Tripophob-228",
+      "text": "Path of the Rogue 4 is really cool. I've been playing for 150 hours already - I'm not tired",
+      "likes": 3,
+      "reposts": 0,
+      "sprite": "tripophob"
+    },
+    {
+      "name": "^_^",
+      "text": "__///22//22\\\\\\515....!!!?1?515",
+      "likes": 515,
+      "reposts": 22,
+      "sprite": "unknown2"
+    },
+    {
+      "name": "I'm A Doctor",
+      "text": "The legendary day has begun",
+      "likes": 4,
+      "reposts": 0,
+      "sprite": "doctor"
+    },
+    {
+      "name": "Denis Vyatkin",
+      "text": "And why is it so hard?",
+      "likes": 1,
+      "reposts": 0,
+      "sprite": "denis"
+    },
+    {
+      "name": "Denis Vyatkin",
+      "text": "Why is it so hard to work on this shit even for 10 minutes in a row?",
+      "likes": 1,
+      "reposts": 0,
+      "sprite": "denis"
+    },
+    {
+      "name": "GOD IN US",
+      "text": "I didn’t go to work today, I feel sick",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": null
+    },
+    {
+      "name": "nnnnn",
+      "text": "I'm sitting at the doctor, booooring",
+      "likes": 2,
+      "reposts": 0,
+      "sprite": "cortney"
+    },
+    {
+      "name": "I'm A Doctor",
+      "text": "The legendary day continues",
+      "likes": 5,
+      "reposts": 0,
+      "sprite": "doctor"
+    },
+    {
+      "name": "I'm A Doctor",
+      "text": "The government is hiding something.",
+      "likes": 1344,
+      "reposts": 112,
+      "sprite": "doctor"
+    },
+    {
+      "name": "I'm A Doctor",
+      "text": "Over the past month, dozens of people have disappeared.",
+      "likes": 40,
+      "reposts": 25,
+      "sprite": "doctor"
+    },
+    {
+      "name": "--//--",
+      "text": "What happened?",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "unknown1"
+    },
+    {
+      "name": "I'm A Doctor",
+      "text": "These experiments didn’t lead to anything good.",
+      "likes": 72,
+      "reposts": 18,
+      "sprite": "doctor"
+    },
+    {
+      "name": "j0hN",
+      "text": "My dog died, and so did all my neighbors' pets. Nobody knows why. What's happening?",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "john"
+    },
+    {
+      "name": "nnnnn",
+      "text": "Lol))",
+      "likes": 66,
+      "reposts": 32,
+      "sprite": "cortney"
+    },
+    {
+      "name": "nnnnn",
+      "text": "Oh, okay",
+      "likes": 4,
+      "reposts": 0,
+      "sprite": "cortney"
+    },
+    {
+      "name": "GOD IN US",
+      "text": "I'm sick, I'm getting worse..",
+      "likes": 52,
+      "reposts": 6,
+      "sprite": "jennet"
+    },
+    {
+      "name": "^_^",
+      "text": "........................",
+      "likes": 327,
+      "reposts": 202,
+      "sprite": "unknown2"
+    },
+    {
+      "name": "^_^",
+      "text": "1274728374732323234",
+      "likes": 2304,
+      "reposts": 532,
+      "sprite": "unknown2"
+    },
+    {
+      "name": "^_^",
+      "text": "123.2345.4534.65",
+      "likes": 4607,
+      "reposts": 489,
+      "sprite": "unknown2"
+    },
+    {
+      "name": "j0hN",
+      "text": "My whole family has cold symptoms. Our friends too. What is going on?",
+      "likes": 633,
+      "reposts": 211,
+      "sprite": "john"
+    },
+    {
+      "name": "nnnnn",
+      "text": "nothing interesting here",
+      "likes": 16,
+      "reposts": 4,
+      "sprite": "cortney"
+    },
+    {
+      "name": "nnnnn",
+      "text": "people disappear...",
+      "likes": 73,
+      "reposts": 42,
+      "sprite": "cortney"
+    },
+    {
+      "name": "--//--",
+      "text": "What happened?",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "unknown1"
+    },
+    {
+      "name": "j0hN",
+      "text": "Where am I?",
+      "likes": 5423,
+      "reposts": 321,
+      "sprite": "john"
+    },
+    {
+      "name": "j0hN",
+      "text": "Nobody's here.",
+      "likes": 3245,
+      "reposts": 873,
+      "sprite": "john"
+    },
+    {
+      "name": "GOD IN US",
+      "text": "Lord have mercy on us",
+      "likes": 10546,
+      "reposts": 3298,
+      "sprite": "jennet"
+    },
+    {
+      "name": "nnnnn",
+      "text": "I feel something",
+      "likes": 435,
+      "reposts": 5371,
+      "sprite": "cortney"
+    },
+    {
+      "name": "nnnnn",
+      "text": "Heh",
+      "likes": 100395,
+      "reposts": 23856,
+      "sprite": "cortney"
+    },
+    {
+      "name": "I'm A Doctor",
+      "text": "It was clear from the start",
+      "likes": 53562,
+      "reposts": 3465,
+      "sprite": "doctor"
+    },
+    {
+      "name": "I'm A Doctor",
+      "text": "Nothing good could come of this.",
+      "likes": 12424,
+      "reposts": 5432,
+      "sprite": "doctor"
+    },
+    {
+      "name": "j0hN",
+      "text": "Fuck",
+      "likes": 302948,
+      "reposts": 76183,
+      "sprite": "john"
+    },
+    {
+      "name": "nnnnn",
+      "text": "no",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "cortney"
+    },
+    {
+      "name": "nnnnn",
+      "text": "noooooooooooooooooooo!!!",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "cortney"
+    },
+    {
+      "name": "I'm A Doctor",
+      "text": "Fuck Fuck Fuck",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "doctor"
+    },
+    {
+      "name": "GOD IN US",
+      "text": "And what awaits us now?",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "jennet"
+    },
+    {
+      "name": "nnnnn",
+      "text": "it's all unreal",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "cortney"
+    },
+    {
+      "name": "nnnnn",
+      "text": "are we dead?",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "cortney"
+    },
+    {
+      "name": "nnnnn",
+      "text": "looks like that",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "cortney"
+    },
+    {
+      "name": "I'm A Doctor",
+      "text": "What the...",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "doctor"
+    },
+    {
+      "name": "--//--",
+      "text": "what?what?",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "unknown1"
+    },
+    {
+      "name": "nnnnn",
+      "text": "nonono",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "cortney"
+    },
+    {
+      "name": "GOD IN US",
+      "text": "..........",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "jennet"
+    },
+    {
+      "name": "Denis Vyatkin",
+      "text": "I don't care anymore",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "denis"
+    },
+    {
+      "name": "GOD IN US",
+      "text": "well, yes, yes",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "jennet"
+    },
+    {
+      "name": "I'm A Doctor",
+      "text": "All of this is not important now",
+      "likes": 0,
+      "reposts": 0,
+      "sprite": "doctor"
+    },
+    {
+      "name": "GOD IN US",
+      "text": "begins",
+      "likes": 1948528,
+      "reposts": 23422,
+      "sprite": "jennet"
+    },
+    {
+      "name": "GOD IN US",
+      "text": "It's amazing!",
+      "likes": 4573647,
+      "reposts": 19234,
+      "sprite": "jennet"
+    },
+    {
+      "name": "nnnnn",
+      "text": "Lord",
+      "likes": 9389458,
+      "reposts": 1238473,
+      "sprite": "cortney"
+    },
+    {
+      "name": "GOD IN US",
+      "text": "Lord have mercy on us",
+      "likes": 1232433,
+      "reposts": 325323,
+      "sprite": "jennet"
+    },
+    {
+      "name": "GOD IN US",
+      "text": "Lord have mercy on us",
+      "likes": 4234561,
+      "reposts": 3424,
+      "sprite": "jennet"
+    },
+    {
+      "name": "nnnnn",
+      "text": "It's beautiful!!!",
+      "likes": 1236345,
+      "reposts": 23244,
+      "sprite": "cortney"
+    },
+    {
+      "name": "I'm A Doctor",
+      "text": "I see",
+      "likes": 3213543,
+      "reposts": 43534,
+      "sprite": "doctor"
+    },
+    {
+      "name": "nnnnn",
+      "text": "oh yes",
+      "likes": 5234566,
+      "reposts": 43245,
+      "sprite": "cortney"
+    },
+    {
+      "name": "nnnnn",
+      "text": "Brilliant",
+      "likes": 3453525,
+      "reposts": 43567,
+      "sprite": "cortney"
+    },
+    {
+      "name": "^_^",
+      "text": "515",
+      "likes": 515,
+      "reposts": 515,
+      "sprite": "unknown2"
+    },
+    {
+      "name": "^_^",
+      "text": "515",
+      "likes": 515,
+      "reposts": 515,
+      "sprite": "unknown2"
+    },
+    {
+      "name": "^_^",
+      "text": "515",
+      "likes": 515,
+      "reposts": 1515,
+      "sprite": "unknown2"
+    },
+    {
+      "name": "^_^",
+      "text": "22",
+      "likes": 2222,
+      "reposts": 222222,
+      "sprite": "unknown2"
+    },
+    {
+      "name": "^_^",
+      "text": "22",
+      "likes": 22,
+      "reposts": 22,
+      "sprite": "unknown2"
+    },
+    {
+      "name": "______________",
+      "text": "515",
+      "likes": 5515,
+      "reposts": 5155,
+      "sprite": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1106ee71d462bb44ab5e7a1049fa81d, type: 3}
+  m_Name: ServerPuzzle
+  m_EditorClassIdentifier: 
+  stage: 0
+  enteredManCorridor: 0
+  generatorPower: 0
+  firstPort: 0
+  secondPort: 0
+  thirdPort: 0
+  leftServer: 0
+  rightServer: 0
+  enterManCorridorTrack:
+    clip: {fileID: 8300000, guid: 0bebd32a68f90f94b9100993d99b8fa7, type: 3}
+    maxVolume: 1
+    fadeSpeed: 100
+    playOnce: 0
+  enableGeneratorTrack:
+    clip: {fileID: 8300000, guid: 769079f7adec7b042829d04108b9898c, type: 3}
+    maxVolume: 1
+    fadeSpeed: 100
+    playOnce: 0
+  enableGeneratorPowerTrack:
+    clip: {fileID: 8300000, guid: 48101812e1516f5469c869d9c364a23a, type: 3}
+    maxVolume: 1
+    fadeSpeed: 100
+    playOnce: 0
+  enableCommutatorTrack:
+    clip: {fileID: 0}
+    maxVolume: 1
+    fadeSpeed: 100
+    playOnce: 0
+  openPort1Track:
+    clip: {fileID: 8300000, guid: f96ebddef7c77d74dad65b27f05efe6d, type: 3}
+    maxVolume: 1
+    fadeSpeed: 100
+    playOnce: 0
+  openPort2Track:
+    clip: {fileID: 8300000, guid: 6ff114a0b28d1c74c82146fe10c1e3f6, type: 3}
+    maxVolume: 1
+    fadeSpeed: 100
+    playOnce: 0
+  openPort3Track:
+    clip: {fileID: 8300000, guid: eac541dc04f334741b5e990738815166, type: 3}
+    maxVolume: 1
+    fadeSpeed: 100
+    playOnce: 0
+  enableBigServerTrack:
+    clip: {fileID: 8300000, guid: 18f59ea67d01d8a40a82aae63ebc3b41, type: 3}
+    maxVolume: 1
+    fadeSpeed: 100
+    playOnce: 0
+  enableLeftServerTrack:
+    clip: {fileID: 8300000, guid: 8aa250e9c2e419a4d8c264483366df28, type: 3}
+    maxVolume: 1
+    fadeSpeed: 100
+    playOnce: 0
+  enableRightServerTrack:
+    clip: {fileID: 8300000, guid: bcf1e4760ea52214aa89862ac779e828, type: 3}
+    maxVolume: 1
+    fadeSpeed: 100
+    playOnce: 0
+  enableMainServerTrack:
+    clip: {fileID: 8300000, guid: cbc97ef2c911ab6408c0b00f6447984e, type: 3}
+    maxVolume: 1
+    fadeSpeed: 100
+    playOnce: 0

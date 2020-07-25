@@ -1,0 +1,1654 @@
+fileFormatVersion: 2
+guid: 462527a58766c8f4cab2aef7c2f24c20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NeighborKitchenPuzzleGreen (Background Copy) 0.ase
+  - first:
+      213: 21300002
+    second: NeighborKitchenPuzzleGreen (Background Copy) 1.ase
+  - first:
+      213: 21300004
+    second: NeighborKitchenPuzzleGreen (Background Copy) 2.ase
+  - first:
+      213: 21300006
+    second: NeighborKitchenPuzzleGreen (Background Copy) 3.ase
+  - first:
+      213: 21300008
+    second: NeighborKitchenPuzzleGreen (Background Copy) 4.ase
+  - first:
+      213: 21300010
+    second: NeighborKitchenPuzzleGreen (Background Copy) 5.ase
+  - first:
+      213: 21300012
+    second: NeighborKitchenPuzzleGreen (Background Copy) 6.ase
+  - first:
+      213: 21300014
+    second: NeighborKitchenPuzzleGreen (Background Copy) 7.ase
+  - first:
+      213: 21300016
+    second: NeighborKitchenPuzzleGreen (Background Copy) 8.ase
+  - first:
+      213: 21300018
+    second: NeighborKitchenPuzzleGreen (Background Copy) 9.ase
+  - first:
+      213: 21300020
+    second: NeighborKitchenPuzzleGreen (Background Copy) 10.ase
+  - first:
+      213: 21300022
+    second: NeighborKitchenPuzzleGreen (Background Copy) 11.ase
+  - first:
+      213: 21300024
+    second: NeighborKitchenPuzzleGreen (Background Copy) 12.ase
+  - first:
+      213: 21300026
+    second: NeighborKitchenPuzzleGreen (Background Copy) 13.ase
+  - first:
+      213: 21300028
+    second: NeighborKitchenPuzzleGreen (Background Copy) 14.ase
+  - first:
+      213: 21300030
+    second: NeighborKitchenPuzzleGreen (Background Copy) 15.ase
+  - first:
+      213: 21300032
+    second: NeighborKitchenPuzzleGreen (cliffs) 0.ase
+  - first:
+      213: 21300034
+    second: NeighborKitchenPuzzleGreen (cliffs) 1.ase
+  - first:
+      213: 21300036
+    second: NeighborKitchenPuzzleGreen (cliffs) 2.ase
+  - first:
+      213: 21300038
+    second: NeighborKitchenPuzzleGreen (cliffs) 3.ase
+  - first:
+      213: 21300040
+    second: NeighborKitchenPuzzleGreen (cliffs) 4.ase
+  - first:
+      213: 21300042
+    second: NeighborKitchenPuzzleGreen (cliffs) 5.ase
+  - first:
+      213: 21300044
+    second: NeighborKitchenPuzzleGreen (cliffs) 6.ase
+  - first:
+      213: 21300046
+    second: NeighborKitchenPuzzleGreen (cliffs) 7.ase
+  - first:
+      213: 21300048
+    second: NeighborKitchenPuzzleGreen (cliffs) 8.ase
+  - first:
+      213: 21300050
+    second: NeighborKitchenPuzzleGreen (cliffs) 9.ase
+  - first:
+      213: 21300052
+    second: NeighborKitchenPuzzleGreen (cliffs) 10.ase
+  - first:
+      213: 21300054
+    second: NeighborKitchenPuzzleGreen (cliffs) 11.ase
+  - first:
+      213: 21300056
+    second: NeighborKitchenPuzzleGreen (cliffs) 12.ase
+  - first:
+      213: 21300058
+    second: NeighborKitchenPuzzleGreen (cliffs) 13.ase
+  - first:
+      213: 21300060
+    second: NeighborKitchenPuzzleGreen (cliffs) 14.ase
+  - first:
+      213: 21300062
+    second: NeighborKitchenPuzzleGreen (cliffs) 15.ase
+  - first:
+      213: 21300064
+    second: NeighborKitchenPuzzleGreen (stones) 0.ase
+  - first:
+      213: 21300066
+    second: NeighborKitchenPuzzleGreen (stones) 1.ase
+  - first:
+      213: 21300068
+    second: NeighborKitchenPuzzleGreen (stones) 2.ase
+  - first:
+      213: 21300070
+    second: NeighborKitchenPuzzleGreen (stones) 3.ase
+  - first:
+      213: 21300072
+    second: NeighborKitchenPuzzleGreen (stones) 4.ase
+  - first:
+      213: 21300074
+    second: NeighborKitchenPuzzleGreen (stones) 5.ase
+  - first:
+      213: 21300076
+    second: NeighborKitchenPuzzleGreen (stones) 6.ase
+  - first:
+      213: 21300078
+    second: NeighborKitchenPuzzleGreen (stones) 7.ase
+  - first:
+      213: 21300080
+    second: NeighborKitchenPuzzleGreen (stones) 8.ase
+  - first:
+      213: 21300082
+    second: NeighborKitchenPuzzleGreen (stones) 9.ase
+  - first:
+      213: 21300084
+    second: NeighborKitchenPuzzleGreen (stones) 10.ase
+  - first:
+      213: 21300086
+    second: NeighborKitchenPuzzleGreen (stones) 11.ase
+  - first:
+      213: 21300088
+    second: NeighborKitchenPuzzleGreen (stones) 12.ase
+  - first:
+      213: 21300090
+    second: NeighborKitchenPuzzleGreen (stones) 13.ase
+  - first:
+      213: 21300092
+    second: NeighborKitchenPuzzleGreen (stones) 14.ase
+  - first:
+      213: 21300094
+    second: NeighborKitchenPuzzleGreen (stones) 15.ase
+  - first:
+      213: 21300096
+    second: NeighborKitchenPuzzleGreen (waterfall) 0.ase
+  - first:
+      213: 21300098
+    second: NeighborKitchenPuzzleGreen (waterfall) 1.ase
+  - first:
+      213: 21300100
+    second: NeighborKitchenPuzzleGreen (waterfall) 2.ase
+  - first:
+      213: 21300102
+    second: NeighborKitchenPuzzleGreen (waterfall) 3.ase
+  - first:
+      213: 21300104
+    second: NeighborKitchenPuzzleGreen (waterfall) 4.ase
+  - first:
+      213: 21300106
+    second: NeighborKitchenPuzzleGreen (waterfall) 5.ase
+  - first:
+      213: 21300108
+    second: NeighborKitchenPuzzleGreen (waterfall) 6.ase
+  - first:
+      213: 21300110
+    second: NeighborKitchenPuzzleGreen (waterfall) 7.ase
+  - first:
+      213: 21300112
+    second: NeighborKitchenPuzzleGreen (waterfall) 8.ase
+  - first:
+      213: 21300114
+    second: NeighborKitchenPuzzleGreen (waterfall) 9.ase
+  - first:
+      213: 21300116
+    second: NeighborKitchenPuzzleGreen (waterfall) 10.ase
+  - first:
+      213: 21300118
+    second: NeighborKitchenPuzzleGreen (waterfall) 11.ase
+  - first:
+      213: 21300120
+    second: NeighborKitchenPuzzleGreen (waterfall) 12.ase
+  - first:
+      213: 21300122
+    second: NeighborKitchenPuzzleGreen (waterfall) 13.ase
+  - first:
+      213: 21300124
+    second: NeighborKitchenPuzzleGreen (waterfall) 14.ase
+  - first:
+      213: 21300126
+    second: NeighborKitchenPuzzleGreen (waterfall) 15.ase
+  - first:
+      213: 21300128
+    second: NeighborKitchenPuzzleGreen (tree1) 0.ase
+  - first:
+      213: 21300130
+    second: NeighborKitchenPuzzleGreen (tree1) 1.ase
+  - first:
+      213: 21300132
+    second: NeighborKitchenPuzzleGreen (tree1) 2.ase
+  - first:
+      213: 21300134
+    second: NeighborKitchenPuzzleGreen (tree1) 3.ase
+  - first:
+      213: 21300136
+    second: NeighborKitchenPuzzleGreen (tree1) 4.ase
+  - first:
+      213: 21300138
+    second: NeighborKitchenPuzzleGreen (tree1) 5.ase
+  - first:
+      213: 21300140
+    second: NeighborKitchenPuzzleGreen (tree1) 6.ase
+  - first:
+      213: 21300142
+    second: NeighborKitchenPuzzleGreen (tree1) 7.ase
+  - first:
+      213: 21300144
+    second: NeighborKitchenPuzzleGreen (tree1) 8.ase
+  - first:
+      213: 21300146
+    second: NeighborKitchenPuzzleGreen (tree1) 9.ase
+  - first:
+      213: 21300148
+    second: NeighborKitchenPuzzleGreen (tree1) 10.ase
+  - first:
+      213: 21300150
+    second: NeighborKitchenPuzzleGreen (tree1) 11.ase
+  - first:
+      213: 21300152
+    second: NeighborKitchenPuzzleGreen (tree1) 12.ase
+  - first:
+      213: 21300154
+    second: NeighborKitchenPuzzleGreen (tree1) 13.ase
+  - first:
+      213: 21300156
+    second: NeighborKitchenPuzzleGreen (tree1) 14.ase
+  - first:
+      213: 21300158
+    second: NeighborKitchenPuzzleGreen (tree1) 15.ase
+  - first:
+      213: 21300160
+    second: NeighborKitchenPuzzleGreen (tree2) 0.ase
+  - first:
+      213: 21300162
+    second: NeighborKitchenPuzzleGreen (tree2) 1.ase
+  - first:
+      213: 21300164
+    second: NeighborKitchenPuzzleGreen (tree2) 2.ase
+  - first:
+      213: 21300166
+    second: NeighborKitchenPuzzleGreen (tree2) 3.ase
+  - first:
+      213: 21300168
+    second: NeighborKitchenPuzzleGreen (tree2) 4.ase
+  - first:
+      213: 21300170
+    second: NeighborKitchenPuzzleGreen (tree2) 5.ase
+  - first:
+      213: 21300172
+    second: NeighborKitchenPuzzleGreen (tree2) 6.ase
+  - first:
+      213: 21300174
+    second: NeighborKitchenPuzzleGreen (tree2) 7.ase
+  - first:
+      213: 21300176
+    second: NeighborKitchenPuzzleGreen (tree2) 8.ase
+  - first:
+      213: 21300178
+    second: NeighborKitchenPuzzleGreen (tree2) 9.ase
+  - first:
+      213: 21300180
+    second: NeighborKitchenPuzzleGreen (tree2) 10.ase
+  - first:
+      213: 21300182
+    second: NeighborKitchenPuzzleGreen (tree2) 11.ase
+  - first:
+      213: 21300184
+    second: NeighborKitchenPuzzleGreen (tree2) 12.ase
+  - first:
+      213: 21300186
+    second: NeighborKitchenPuzzleGreen (tree2) 13.ase
+  - first:
+      213: 21300188
+    second: NeighborKitchenPuzzleGreen (tree2) 14.ase
+  - first:
+      213: 21300190
+    second: NeighborKitchenPuzzleGreen (tree2) 15.ase
+  - first:
+      213: 21300192
+    second: NeighborKitchenPuzzleGreen (tree2.5) 0.ase
+  - first:
+      213: 21300194
+    second: NeighborKitchenPuzzleGreen (tree2.5) 1.ase
+  - first:
+      213: 21300196
+    second: NeighborKitchenPuzzleGreen (tree2.5) 2.ase
+  - first:
+      213: 21300198
+    second: NeighborKitchenPuzzleGreen (tree2.5) 3.ase
+  - first:
+      213: 21300200
+    second: NeighborKitchenPuzzleGreen (tree2.5) 4.ase
+  - first:
+      213: 21300202
+    second: NeighborKitchenPuzzleGreen (tree2.5) 5.ase
+  - first:
+      213: 21300204
+    second: NeighborKitchenPuzzleGreen (tree2.5) 6.ase
+  - first:
+      213: 21300206
+    second: NeighborKitchenPuzzleGreen (tree2.5) 7.ase
+  - first:
+      213: 21300208
+    second: NeighborKitchenPuzzleGreen (tree2.5) 8.ase
+  - first:
+      213: 21300210
+    second: NeighborKitchenPuzzleGreen (tree2.5) 9.ase
+  - first:
+      213: 21300212
+    second: NeighborKitchenPuzzleGreen (tree2.5) 10.ase
+  - first:
+      213: 21300214
+    second: NeighborKitchenPuzzleGreen (tree2.5) 11.ase
+  - first:
+      213: 21300216
+    second: NeighborKitchenPuzzleGreen (tree2.5) 12.ase
+  - first:
+      213: 21300218
+    second: NeighborKitchenPuzzleGreen (tree2.5) 13.ase
+  - first:
+      213: 21300220
+    second: NeighborKitchenPuzzleGreen (tree2.5) 14.ase
+  - first:
+      213: 21300222
+    second: NeighborKitchenPuzzleGreen (tree2.5) 15.ase
+  - first:
+      213: 21300224
+    second: NeighborKitchenPuzzleGreen (leaves2) 0.ase
+  - first:
+      213: 21300226
+    second: NeighborKitchenPuzzleGreen (leaves2) 1.ase
+  - first:
+      213: 21300228
+    second: NeighborKitchenPuzzleGreen (leaves2) 2.ase
+  - first:
+      213: 21300230
+    second: NeighborKitchenPuzzleGreen (leaves2) 3.ase
+  - first:
+      213: 21300232
+    second: NeighborKitchenPuzzleGreen (leaves2) 4.ase
+  - first:
+      213: 21300234
+    second: NeighborKitchenPuzzleGreen (leaves2) 5.ase
+  - first:
+      213: 21300236
+    second: NeighborKitchenPuzzleGreen (leaves2) 6.ase
+  - first:
+      213: 21300238
+    second: NeighborKitchenPuzzleGreen (leaves2) 7.ase
+  - first:
+      213: 21300240
+    second: NeighborKitchenPuzzleGreen (leaves2) 8.ase
+  - first:
+      213: 21300242
+    second: NeighborKitchenPuzzleGreen (leaves2) 9.ase
+  - first:
+      213: 21300244
+    second: NeighborKitchenPuzzleGreen (leaves2) 10.ase
+  - first:
+      213: 21300246
+    second: NeighborKitchenPuzzleGreen (leaves2) 11.ase
+  - first:
+      213: 21300248
+    second: NeighborKitchenPuzzleGreen (leaves2) 12.ase
+  - first:
+      213: 21300250
+    second: NeighborKitchenPuzzleGreen (leaves2) 13.ase
+  - first:
+      213: 21300252
+    second: NeighborKitchenPuzzleGreen (leaves2) 14.ase
+  - first:
+      213: 21300254
+    second: NeighborKitchenPuzzleGreen (leaves2) 15.ase
+  - first:
+      213: 21300256
+    second: NeighborKitchenPuzzleGreen (tree3) 0.ase
+  - first:
+      213: 21300258
+    second: NeighborKitchenPuzzleGreen (tree3) 1.ase
+  - first:
+      213: 21300260
+    second: NeighborKitchenPuzzleGreen (tree3) 2.ase
+  - first:
+      213: 21300262
+    second: NeighborKitchenPuzzleGreen (tree3) 3.ase
+  - first:
+      213: 21300264
+    second: NeighborKitchenPuzzleGreen (tree3) 4.ase
+  - first:
+      213: 21300266
+    second: NeighborKitchenPuzzleGreen (tree3) 5.ase
+  - first:
+      213: 21300268
+    second: NeighborKitchenPuzzleGreen (tree3) 6.ase
+  - first:
+      213: 21300270
+    second: NeighborKitchenPuzzleGreen (tree3) 7.ase
+  - first:
+      213: 21300272
+    second: NeighborKitchenPuzzleGreen (tree3) 8.ase
+  - first:
+      213: 21300274
+    second: NeighborKitchenPuzzleGreen (tree3) 9.ase
+  - first:
+      213: 21300276
+    second: NeighborKitchenPuzzleGreen (tree3) 10.ase
+  - first:
+      213: 21300278
+    second: NeighborKitchenPuzzleGreen (tree3) 11.ase
+  - first:
+      213: 21300280
+    second: NeighborKitchenPuzzleGreen (tree3) 12.ase
+  - first:
+      213: 21300282
+    second: NeighborKitchenPuzzleGreen (tree3) 13.ase
+  - first:
+      213: 21300284
+    second: NeighborKitchenPuzzleGreen (tree3) 14.ase
+  - first:
+      213: 21300286
+    second: NeighborKitchenPuzzleGreen (tree3) 15.ase
+  - first:
+      213: 21300288
+    second: NeighborKitchenPuzzleGreen (tree4) 0.ase
+  - first:
+      213: 21300290
+    second: NeighborKitchenPuzzleGreen (tree4) 1.ase
+  - first:
+      213: 21300292
+    second: NeighborKitchenPuzzleGreen (tree4) 2.ase
+  - first:
+      213: 21300294
+    second: NeighborKitchenPuzzleGreen (tree4) 3.ase
+  - first:
+      213: 21300296
+    second: NeighborKitchenPuzzleGreen (tree4) 4.ase
+  - first:
+      213: 21300298
+    second: NeighborKitchenPuzzleGreen (tree4) 5.ase
+  - first:
+      213: 21300300
+    second: NeighborKitchenPuzzleGreen (tree4) 6.ase
+  - first:
+      213: 21300302
+    second: NeighborKitchenPuzzleGreen (tree4) 7.ase
+  - first:
+      213: 21300304
+    second: NeighborKitchenPuzzleGreen (tree4) 8.ase
+  - first:
+      213: 21300306
+    second: NeighborKitchenPuzzleGreen (tree4) 9.ase
+  - first:
+      213: 21300308
+    second: NeighborKitchenPuzzleGreen (tree4) 10.ase
+  - first:
+      213: 21300310
+    second: NeighborKitchenPuzzleGreen (tree4) 11.ase
+  - first:
+      213: 21300312
+    second: NeighborKitchenPuzzleGreen (tree4) 12.ase
+  - first:
+      213: 21300314
+    second: NeighborKitchenPuzzleGreen (tree4) 13.ase
+  - first:
+      213: 21300316
+    second: NeighborKitchenPuzzleGreen (tree4) 14.ase
+  - first:
+      213: 21300318
+    second: NeighborKitchenPuzzleGreen (tree4) 15.ase
+  - first:
+      213: 21300320
+    second: NeighborKitchenPuzzleGreen (leaves) 0.ase
+  - first:
+      213: 21300322
+    second: NeighborKitchenPuzzleGreen (leaves) 1.ase
+  - first:
+      213: 21300324
+    second: NeighborKitchenPuzzleGreen (leaves) 2.ase
+  - first:
+      213: 21300326
+    second: NeighborKitchenPuzzleGreen (leaves) 3.ase
+  - first:
+      213: 21300328
+    second: NeighborKitchenPuzzleGreen (leaves) 4.ase
+  - first:
+      213: 21300330
+    second: NeighborKitchenPuzzleGreen (leaves) 5.ase
+  - first:
+      213: 21300332
+    second: NeighborKitchenPuzzleGreen (leaves) 6.ase
+  - first:
+      213: 21300334
+    second: NeighborKitchenPuzzleGreen (leaves) 7.ase
+  - first:
+      213: 21300336
+    second: NeighborKitchenPuzzleGreen (leaves) 8.ase
+  - first:
+      213: 21300338
+    second: NeighborKitchenPuzzleGreen (leaves) 9.ase
+  - first:
+      213: 21300340
+    second: NeighborKitchenPuzzleGreen (leaves) 10.ase
+  - first:
+      213: 21300342
+    second: NeighborKitchenPuzzleGreen (leaves) 11.ase
+  - first:
+      213: 21300344
+    second: NeighborKitchenPuzzleGreen (leaves) 12.ase
+  - first:
+      213: 21300346
+    second: NeighborKitchenPuzzleGreen (leaves) 13.ase
+  - first:
+      213: 21300348
+    second: NeighborKitchenPuzzleGreen (leaves) 14.ase
+  - first:
+      213: 21300350
+    second: NeighborKitchenPuzzleGreen (leaves) 15.ase
+  - first:
+      213: 21300352
+    second: NeighborKitchenPuzzleGreen (tree) 0.ase
+  - first:
+      213: 21300354
+    second: NeighborKitchenPuzzleGreen (tree) 1.ase
+  - first:
+      213: 21300356
+    second: NeighborKitchenPuzzleGreen (tree) 2.ase
+  - first:
+      213: 21300358
+    second: NeighborKitchenPuzzleGreen (tree) 3.ase
+  - first:
+      213: 21300360
+    second: NeighborKitchenPuzzleGreen (tree) 4.ase
+  - first:
+      213: 21300362
+    second: NeighborKitchenPuzzleGreen (tree) 5.ase
+  - first:
+      213: 21300364
+    second: NeighborKitchenPuzzleGreen (tree) 6.ase
+  - first:
+      213: 21300366
+    second: NeighborKitchenPuzzleGreen (tree) 7.ase
+  - first:
+      213: 21300368
+    second: NeighborKitchenPuzzleGreen (tree) 8.ase
+  - first:
+      213: 21300370
+    second: NeighborKitchenPuzzleGreen (tree) 9.ase
+  - first:
+      213: 21300372
+    second: NeighborKitchenPuzzleGreen (tree) 10.ase
+  - first:
+      213: 21300374
+    second: NeighborKitchenPuzzleGreen (tree) 11.ase
+  - first:
+      213: 21300376
+    second: NeighborKitchenPuzzleGreen (tree) 12.ase
+  - first:
+      213: 21300378
+    second: NeighborKitchenPuzzleGreen (tree) 13.ase
+  - first:
+      213: 21300380
+    second: NeighborKitchenPuzzleGreen (tree) 14.ase
+  - first:
+      213: 21300382
+    second: NeighborKitchenPuzzleGreen (tree) 15.ase
+  - first:
+      213: 21300384
+    second: NeighborKitchenPuzzleGreen (wall) 0.ase
+  - first:
+      213: 21300386
+    second: NeighborKitchenPuzzleGreen (wall) 1.ase
+  - first:
+      213: 21300388
+    second: NeighborKitchenPuzzleGreen (wall) 2.ase
+  - first:
+      213: 21300390
+    second: NeighborKitchenPuzzleGreen (wall) 3.ase
+  - first:
+      213: 21300392
+    second: NeighborKitchenPuzzleGreen (wall) 4.ase
+  - first:
+      213: 21300394
+    second: NeighborKitchenPuzzleGreen (wall) 5.ase
+  - first:
+      213: 21300396
+    second: NeighborKitchenPuzzleGreen (wall) 6.ase
+  - first:
+      213: 21300398
+    second: NeighborKitchenPuzzleGreen (wall) 7.ase
+  - first:
+      213: 21300400
+    second: NeighborKitchenPuzzleGreen (wall) 8.ase
+  - first:
+      213: 21300402
+    second: NeighborKitchenPuzzleGreen (wall) 9.ase
+  - first:
+      213: 21300404
+    second: NeighborKitchenPuzzleGreen (wall) 10.ase
+  - first:
+      213: 21300406
+    second: NeighborKitchenPuzzleGreen (wall) 11.ase
+  - first:
+      213: 21300408
+    second: NeighborKitchenPuzzleGreen (wall) 12.ase
+  - first:
+      213: 21300410
+    second: NeighborKitchenPuzzleGreen (wall) 13.ase
+  - first:
+      213: 21300412
+    second: NeighborKitchenPuzzleGreen (wall) 14.ase
+  - first:
+      213: 21300414
+    second: NeighborKitchenPuzzleGreen (wall) 15.ase
+  - first:
+      213: 21300416
+    second: NeighborKitchenPuzzleGreen (Door) 0.ase
+  - first:
+      213: 21300418
+    second: NeighborKitchenPuzzleGreen (Door) 1.ase
+  - first:
+      213: 21300420
+    second: NeighborKitchenPuzzleGreen (Door) 2.ase
+  - first:
+      213: 21300422
+    second: NeighborKitchenPuzzleGreen (Door) 3.ase
+  - first:
+      213: 21300424
+    second: NeighborKitchenPuzzleGreen (Door) 4.ase
+  - first:
+      213: 21300426
+    second: NeighborKitchenPuzzleGreen (Door) 5.ase
+  - first:
+      213: 21300428
+    second: NeighborKitchenPuzzleGreen (Door) 6.ase
+  - first:
+      213: 21300430
+    second: NeighborKitchenPuzzleGreen (Door) 7.ase
+  - first:
+      213: 21300432
+    second: NeighborKitchenPuzzleGreen (Door) 8.ase
+  - first:
+      213: 21300434
+    second: NeighborKitchenPuzzleGreen (Door) 9.ase
+  - first:
+      213: 21300436
+    second: NeighborKitchenPuzzleGreen (Door) 10.ase
+  - first:
+      213: 21300438
+    second: NeighborKitchenPuzzleGreen (Door) 11.ase
+  - first:
+      213: 21300440
+    second: NeighborKitchenPuzzleGreen (Door) 12.ase
+  - first:
+      213: 21300442
+    second: NeighborKitchenPuzzleGreen (Door) 13.ase
+  - first:
+      213: 21300444
+    second: NeighborKitchenPuzzleGreen (Door) 14.ase
+  - first:
+      213: 21300446
+    second: NeighborKitchenPuzzleGreen (Door) 15.ase
+  - first:
+      213: 21300448
+    second: NeighborKitchenPuzzleGreen (Back) 0.ase
+  - first:
+      213: 21300450
+    second: NeighborKitchenPuzzleGreen (Back) 1.ase
+  - first:
+      213: 21300452
+    second: NeighborKitchenPuzzleGreen (Back) 2.ase
+  - first:
+      213: 21300454
+    second: NeighborKitchenPuzzleGreen (Back) 3.ase
+  - first:
+      213: 21300456
+    second: NeighborKitchenPuzzleGreen (Back) 4.ase
+  - first:
+      213: 21300458
+    second: NeighborKitchenPuzzleGreen (Back) 5.ase
+  - first:
+      213: 21300460
+    second: NeighborKitchenPuzzleGreen (Back) 6.ase
+  - first:
+      213: 21300462
+    second: NeighborKitchenPuzzleGreen (Back) 7.ase
+  - first:
+      213: 21300464
+    second: NeighborKitchenPuzzleGreen (Back) 8.ase
+  - first:
+      213: 21300466
+    second: NeighborKitchenPuzzleGreen (Back) 9.ase
+  - first:
+      213: 21300468
+    second: NeighborKitchenPuzzleGreen (Back) 10.ase
+  - first:
+      213: 21300470
+    second: NeighborKitchenPuzzleGreen (Back) 11.ase
+  - first:
+      213: 21300472
+    second: NeighborKitchenPuzzleGreen (Back) 12.ase
+  - first:
+      213: 21300474
+    second: NeighborKitchenPuzzleGreen (Back) 13.ase
+  - first:
+      213: 21300476
+    second: NeighborKitchenPuzzleGreen (Back) 14.ase
+  - first:
+      213: 21300478
+    second: NeighborKitchenPuzzleGreen (Back) 15.ase
+  - first:
+      213: 21300480
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 0.ase
+  - first:
+      213: 21300482
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 1.ase
+  - first:
+      213: 21300484
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 2.ase
+  - first:
+      213: 21300486
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 3.ase
+  - first:
+      213: 21300488
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 4.ase
+  - first:
+      213: 21300490
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 5.ase
+  - first:
+      213: 21300492
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 6.ase
+  - first:
+      213: 21300494
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 7.ase
+  - first:
+      213: 21300496
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 8.ase
+  - first:
+      213: 21300498
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 9.ase
+  - first:
+      213: 21300500
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 10.ase
+  - first:
+      213: 21300502
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 11.ase
+  - first:
+      213: 21300504
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 12.ase
+  - first:
+      213: 21300506
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 13.ase
+  - first:
+      213: 21300508
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 14.ase
+  - first:
+      213: 21300510
+    second: NeighborKitchenPuzzleGreen (Kitchen1) 15.ase
+  - first:
+      213: 21300512
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 0.ase
+  - first:
+      213: 21300514
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 1.ase
+  - first:
+      213: 21300516
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 2.ase
+  - first:
+      213: 21300518
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 3.ase
+  - first:
+      213: 21300520
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 4.ase
+  - first:
+      213: 21300522
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 5.ase
+  - first:
+      213: 21300524
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 6.ase
+  - first:
+      213: 21300526
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 7.ase
+  - first:
+      213: 21300528
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 8.ase
+  - first:
+      213: 21300530
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 9.ase
+  - first:
+      213: 21300532
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 10.ase
+  - first:
+      213: 21300534
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 11.ase
+  - first:
+      213: 21300536
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 12.ase
+  - first:
+      213: 21300538
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 13.ase
+  - first:
+      213: 21300540
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 14.ase
+  - first:
+      213: 21300542
+    second: NeighborKitchenPuzzleGreen (Kitchen2) 15.ase
+  - first:
+      213: 21300544
+    second: NeighborKitchenPuzzleGreen (Microwave) 0.ase
+  - first:
+      213: 21300546
+    second: NeighborKitchenPuzzleGreen (Microwave) 1.ase
+  - first:
+      213: 21300548
+    second: NeighborKitchenPuzzleGreen (Microwave) 2.ase
+  - first:
+      213: 21300550
+    second: NeighborKitchenPuzzleGreen (Microwave) 3.ase
+  - first:
+      213: 21300552
+    second: NeighborKitchenPuzzleGreen (Microwave) 4.ase
+  - first:
+      213: 21300554
+    second: NeighborKitchenPuzzleGreen (Microwave) 5.ase
+  - first:
+      213: 21300556
+    second: NeighborKitchenPuzzleGreen (Microwave) 6.ase
+  - first:
+      213: 21300558
+    second: NeighborKitchenPuzzleGreen (Microwave) 7.ase
+  - first:
+      213: 21300560
+    second: NeighborKitchenPuzzleGreen (Microwave) 8.ase
+  - first:
+      213: 21300562
+    second: NeighborKitchenPuzzleGreen (Microwave) 9.ase
+  - first:
+      213: 21300564
+    second: NeighborKitchenPuzzleGreen (Microwave) 10.ase
+  - first:
+      213: 21300566
+    second: NeighborKitchenPuzzleGreen (Microwave) 11.ase
+  - first:
+      213: 21300568
+    second: NeighborKitchenPuzzleGreen (Microwave) 12.ase
+  - first:
+      213: 21300570
+    second: NeighborKitchenPuzzleGreen (Microwave) 13.ase
+  - first:
+      213: 21300572
+    second: NeighborKitchenPuzzleGreen (Microwave) 14.ase
+  - first:
+      213: 21300574
+    second: NeighborKitchenPuzzleGreen (Microwave) 15.ase
+  - first:
+      213: 21300576
+    second: NeighborKitchenPuzzleGreen (Fridge) 0.ase
+  - first:
+      213: 21300578
+    second: NeighborKitchenPuzzleGreen (Fridge) 1.ase
+  - first:
+      213: 21300580
+    second: NeighborKitchenPuzzleGreen (Fridge) 2.ase
+  - first:
+      213: 21300582
+    second: NeighborKitchenPuzzleGreen (Fridge) 3.ase
+  - first:
+      213: 21300584
+    second: NeighborKitchenPuzzleGreen (Fridge) 4.ase
+  - first:
+      213: 21300586
+    second: NeighborKitchenPuzzleGreen (Fridge) 5.ase
+  - first:
+      213: 21300588
+    second: NeighborKitchenPuzzleGreen (Fridge) 6.ase
+  - first:
+      213: 21300590
+    second: NeighborKitchenPuzzleGreen (Fridge) 7.ase
+  - first:
+      213: 21300592
+    second: NeighborKitchenPuzzleGreen (Fridge) 8.ase
+  - first:
+      213: 21300594
+    second: NeighborKitchenPuzzleGreen (Fridge) 9.ase
+  - first:
+      213: 21300596
+    second: NeighborKitchenPuzzleGreen (Fridge) 10.ase
+  - first:
+      213: 21300598
+    second: NeighborKitchenPuzzleGreen (Fridge) 11.ase
+  - first:
+      213: 21300600
+    second: NeighborKitchenPuzzleGreen (Fridge) 12.ase
+  - first:
+      213: 21300602
+    second: NeighborKitchenPuzzleGreen (Fridge) 13.ase
+  - first:
+      213: 21300604
+    second: NeighborKitchenPuzzleGreen (Fridge) 14.ase
+  - first:
+      213: 21300606
+    second: NeighborKitchenPuzzleGreen (Fridge) 15.ase
+  - first:
+      213: 21300608
+    second: NeighborKitchenPuzzleGreen (Chair2) 0.ase
+  - first:
+      213: 21300610
+    second: NeighborKitchenPuzzleGreen (Chair2) 1.ase
+  - first:
+      213: 21300612
+    second: NeighborKitchenPuzzleGreen (Chair2) 2.ase
+  - first:
+      213: 21300614
+    second: NeighborKitchenPuzzleGreen (Chair2) 3.ase
+  - first:
+      213: 21300616
+    second: NeighborKitchenPuzzleGreen (Chair2) 4.ase
+  - first:
+      213: 21300618
+    second: NeighborKitchenPuzzleGreen (Chair2) 5.ase
+  - first:
+      213: 21300620
+    second: NeighborKitchenPuzzleGreen (Chair2) 6.ase
+  - first:
+      213: 21300622
+    second: NeighborKitchenPuzzleGreen (Chair2) 7.ase
+  - first:
+      213: 21300624
+    second: NeighborKitchenPuzzleGreen (Chair2) 8.ase
+  - first:
+      213: 21300626
+    second: NeighborKitchenPuzzleGreen (Chair2) 9.ase
+  - first:
+      213: 21300628
+    second: NeighborKitchenPuzzleGreen (Chair2) 10.ase
+  - first:
+      213: 21300630
+    second: NeighborKitchenPuzzleGreen (Chair2) 11.ase
+  - first:
+      213: 21300632
+    second: NeighborKitchenPuzzleGreen (Chair2) 12.ase
+  - first:
+      213: 21300634
+    second: NeighborKitchenPuzzleGreen (Chair2) 13.ase
+  - first:
+      213: 21300636
+    second: NeighborKitchenPuzzleGreen (Chair2) 14.ase
+  - first:
+      213: 21300638
+    second: NeighborKitchenPuzzleGreen (Chair2) 15.ase
+  - first:
+      213: 21300640
+    second: NeighborKitchenPuzzleGreen (grass) 0.ase
+  - first:
+      213: 21300642
+    second: NeighborKitchenPuzzleGreen (grass) 1.ase
+  - first:
+      213: 21300644
+    second: NeighborKitchenPuzzleGreen (grass) 2.ase
+  - first:
+      213: 21300646
+    second: NeighborKitchenPuzzleGreen (grass) 3.ase
+  - first:
+      213: 21300648
+    second: NeighborKitchenPuzzleGreen (grass) 4.ase
+  - first:
+      213: 21300650
+    second: NeighborKitchenPuzzleGreen (grass) 5.ase
+  - first:
+      213: 21300652
+    second: NeighborKitchenPuzzleGreen (grass) 6.ase
+  - first:
+      213: 21300654
+    second: NeighborKitchenPuzzleGreen (grass) 7.ase
+  - first:
+      213: 21300656
+    second: NeighborKitchenPuzzleGreen (grass) 8.ase
+  - first:
+      213: 21300658
+    second: NeighborKitchenPuzzleGreen (grass) 9.ase
+  - first:
+      213: 21300660
+    second: NeighborKitchenPuzzleGreen (grass) 10.ase
+  - first:
+      213: 21300662
+    second: NeighborKitchenPuzzleGreen (grass) 11.ase
+  - first:
+      213: 21300664
+    second: NeighborKitchenPuzzleGreen (grass) 12.ase
+  - first:
+      213: 21300666
+    second: NeighborKitchenPuzzleGreen (grass) 13.ase
+  - first:
+      213: 21300668
+    second: NeighborKitchenPuzzleGreen (grass) 14.ase
+  - first:
+      213: 21300670
+    second: NeighborKitchenPuzzleGreen (grass) 15.ase
+  - first:
+      213: 21300672
+    second: NeighborKitchenPuzzleGreen (Background) 0.ase
+  - first:
+      213: 21300674
+    second: NeighborKitchenPuzzleGreen (Background) 1.ase
+  - first:
+      213: 21300676
+    second: NeighborKitchenPuzzleGreen (Background) 2.ase
+  - first:
+      213: 21300678
+    second: NeighborKitchenPuzzleGreen (Background) 3.ase
+  - first:
+      213: 21300680
+    second: NeighborKitchenPuzzleGreen (Background) 4.ase
+  - first:
+      213: 21300682
+    second: NeighborKitchenPuzzleGreen (Background) 5.ase
+  - first:
+      213: 21300684
+    second: NeighborKitchenPuzzleGreen (Background) 6.ase
+  - first:
+      213: 21300686
+    second: NeighborKitchenPuzzleGreen (Background) 7.ase
+  - first:
+      213: 21300688
+    second: NeighborKitchenPuzzleGreen (Background) 8.ase
+  - first:
+      213: 21300690
+    second: NeighborKitchenPuzzleGreen (Background) 9.ase
+  - first:
+      213: 21300692
+    second: NeighborKitchenPuzzleGreen (Background) 10.ase
+  - first:
+      213: 21300694
+    second: NeighborKitchenPuzzleGreen (Background) 11.ase
+  - first:
+      213: 21300696
+    second: NeighborKitchenPuzzleGreen (Background) 12.ase
+  - first:
+      213: 21300698
+    second: NeighborKitchenPuzzleGreen (Background) 13.ase
+  - first:
+      213: 21300700
+    second: NeighborKitchenPuzzleGreen (Background) 14.ase
+  - first:
+      213: 21300702
+    second: NeighborKitchenPuzzleGreen (Background) 15.ase
+  - first:
+      213: 21300704
+    second: NeighborKitchenPuzzleGreen (Background).ase
+  - first:
+      213: 21300706
+    second: NeighborKitchenPuzzleGreen (cliffs).ase
+  - first:
+      213: 21300708
+    second: NeighborKitchenPuzzleGreen (stones).ase
+  - first:
+      213: 21300710
+    second: NeighborKitchenPuzzleGreen (waterfall).ase
+  - first:
+      213: 21300712
+    second: NeighborKitchenPuzzleGreen (tree1).ase
+  - first:
+      213: 21300714
+    second: NeighborKitchenPuzzleGreen (tree2).ase
+  - first:
+      213: 21300716
+    second: NeighborKitchenPuzzleGreen (tree2.5).ase
+  - first:
+      213: 21300718
+    second: NeighborKitchenPuzzleGreen (leaves2).ase
+  - first:
+      213: 21300720
+    second: NeighborKitchenPuzzleGreen (tree3).ase
+  - first:
+      213: 21300722
+    second: NeighborKitchenPuzzleGreen (tree4).ase
+  - first:
+      213: 21300724
+    second: NeighborKitchenPuzzleGreen (leaves).ase
+  - first:
+      213: 21300726
+    second: NeighborKitchenPuzzleGreen (tree).ase
+  - first:
+      213: 21300728
+    second: NeighborKitchenPuzzleGreen (wall).ase
+  - first:
+      213: 21300730
+    second: NeighborKitchenPuzzleGreen (Door).ase
+  - first:
+      213: 21300732
+    second: NeighborKitchenPuzzleGreen (Back).ase
+  - first:
+      213: 21300734
+    second: NeighborKitchenPuzzleGreen (Kitchen1).ase
+  - first:
+      213: 21300736
+    second: NeighborKitchenPuzzleGreen (Kitchen2).ase
+  - first:
+      213: 21300738
+    second: NeighborKitchenPuzzleGreen (Microwave).ase
+  - first:
+      213: 21300740
+    second: NeighborKitchenPuzzleGreen (Fridge).ase
+  - first:
+      213: 21300742
+    second: NeighborKitchenPuzzleGreen (Chair2).ase
+  - first:
+      213: 21300744
+    second: NeighborKitchenPuzzleGreen (grass).ase
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (Background).ase
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 160
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e505410000000000800000000000000
+      internalID: 21300704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (cliffs).ase
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 365
+        width: 160
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e505410000000000800000000000000
+      internalID: 21300706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (stones).ase
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 251
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e505410000000000800000000000000
+      internalID: 21300708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (waterfall).ase
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 252
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e505410000000000800000000000000
+      internalID: 21300710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (tree1).ase
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 310
+        width: 146
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e505410000000000800000000000000
+      internalID: 21300712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (tree2).ase
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 366
+        width: 150
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae505410000000000800000000000000
+      internalID: 21300714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (tree2.5).ase
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 131
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce505410000000000800000000000000
+      internalID: 21300716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (leaves2).ase
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee505410000000000800000000000000
+      internalID: 21300718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (tree3).ase
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 237
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f505410000000000800000000000000
+      internalID: 21300720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (tree4).ase
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 414
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f505410000000000800000000000000
+      internalID: 21300722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (leaves).ase
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 316
+        width: 158
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f505410000000000800000000000000
+      internalID: 21300724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (tree).ase
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 433
+        width: 160
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f505410000000000800000000000000
+      internalID: 21300726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (wall).ase
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 439
+        width: 160
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f505410000000000800000000000000
+      internalID: 21300728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (Door).ase
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 457
+        width: 3
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af505410000000000800000000000000
+      internalID: 21300730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (Back).ase
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 285
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf505410000000000800000000000000
+      internalID: 21300732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (Kitchen1).ase
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 279
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef505410000000000800000000000000
+      internalID: 21300734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (Kitchen2).ase
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 265
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00605410000000000800000000000000
+      internalID: 21300736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (Microwave).ase
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 422
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20605410000000000800000000000000
+      internalID: 21300738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (Fridge).ase
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 456
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40605410000000000800000000000000
+      internalID: 21300740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (Chair2).ase
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 442
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60605410000000000800000000000000
+      internalID: 21300742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NeighborKitchenPuzzleGreen (grass).ase
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 273
+        width: 155
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80605410000000000800000000000000
+      internalID: 21300744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

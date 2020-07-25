@@ -1,0 +1,35 @@
+{ "frames": {
+   "IGMECorridor (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 640, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 640, "h": 80 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "IGMECorridor (Door1).ase": {
+    "frame": { "x": 640, "y": 0, "w": 3, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 28, "w": 3, "h": 55 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "IGMECorridor (Door2).ase": {
+    "frame": { "x": 643, "y": 0, "w": 3, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 637, "y": 28, "w": 3, "h": 55 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\IGMECorridor.png",
+  "format": "RGBA8888",
+  "size": { "w": 1024, "h": 512 },
+  "scale": "1"
+ }
+}

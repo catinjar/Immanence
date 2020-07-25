@@ -1,0 +1,115 @@
+{ "frames": {
+   "Museum (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 640, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 640, "h": 80 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "Museum (Lamps).ase": {
+    "frame": { "x": 640, "y": 0, "w": 341, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 150, "y": 7, "w": 341, "h": 18 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "Museum (Door1).ase": {
+    "frame": { "x": 1018, "y": 0, "w": 3, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 28, "w": 3, "h": 55 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "Museum (Door2).ase": {
+    "frame": { "x": 1021, "y": 0, "w": 3, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 637, "y": 28, "w": 3, "h": 55 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "Museum (Sign1).ase": {
+    "frame": { "x": 761, "y": 18, "w": 11, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 23, "y": 49, "w": 11, "h": 9 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "Museum (Sign2).ase": {
+    "frame": { "x": 772, "y": 18, "w": 11, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 182, "y": 49, "w": 11, "h": 9 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "Museum (Sign3).ase": {
+    "frame": { "x": 783, "y": 18, "w": 11, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 344, "y": 49, "w": 11, "h": 9 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "Museum (Sign4).ase": {
+    "frame": { "x": 794, "y": 18, "w": 11, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 509, "y": 49, "w": 11, "h": 9 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "Museum (Expo1).ase": {
+    "frame": { "x": 640, "y": 18, "w": 58, "h": 54 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 46, "y": 29, "w": 58, "h": 54 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "Museum (Expo2).ase": {
+    "frame": { "x": 981, "y": 0, "w": 37, "h": 42 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 215, "y": 41, "w": 37, "h": 42 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "Museum (Expo3).ase": {
+    "frame": { "x": 698, "y": 18, "w": 40, "h": 33 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 378, "y": 50, "w": 40, "h": 33 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "Museum (Expo4).ase": {
+    "frame": { "x": 738, "y": 18, "w": 23, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 554, "y": 61, "w": 23, "h": 22 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   },
+   "Museum (Fence).ase": {
+    "frame": { "x": 0, "y": 80, "w": 558, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 41, "y": 72, "w": 558, "h": 11 },
+    "sourceSize": { "w": 640, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-beta2-x64",
+  "image": "Images\\Museum.png",
+  "format": "RGBA8888",
+  "size": { "w": 1024, "h": 512 },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,91 @@
+{ "frames": {
+   "ComputerUI (Monitor).ase": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 82 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 16, "y": 8, "w": 128, "h": 82 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ComputerUI (Logo).ase": {
+    "frame": { "x": 225, "y": 0, "w": 27, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 22, "y": 13, "w": 27, "h": 13 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ComputerUI (Exit).ase": {
+    "frame": { "x": 247, "y": 13, "w": 7, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 134, "y": 11, "w": 7, "h": 7 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ComputerUI (Slots).ase": {
+    "frame": { "x": 128, "y": 0, "w": 97, "h": 33 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 37, "w": 97, "h": 33 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ComputerUI (Play).ase": {
+    "frame": { "x": 194, "y": 33, "w": 10, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 131, "y": 37, "w": 10, "h": 14 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ComputerUI (FirstClip).ase": {
+    "frame": { "x": 225, "y": 13, "w": 22, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 37, "w": 22, "h": 14 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ComputerUI (SecondClip).ase": {
+    "frame": { "x": 225, "y": 27, "w": 22, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 52, "y": 37, "w": 22, "h": 14 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ComputerUI (ThirdClip).ase": {
+    "frame": { "x": 128, "y": 33, "w": 22, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 77, "y": 37, "w": 22, "h": 14 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ComputerUI (LastClip).ase": {
+    "frame": { "x": 150, "y": 33, "w": 22, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 102, "y": 37, "w": 22, "h": 14 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "ComputerUI (CandlesClip).ase": {
+    "frame": { "x": 172, "y": 33, "w": 22, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 27, "y": 56, "w": 22, "h": 14 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "Images\\ComputerUI.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1"
+ }
+}

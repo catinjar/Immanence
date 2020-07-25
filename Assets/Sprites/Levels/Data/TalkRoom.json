@@ -1,0 +1,75 @@
+{ "frames": {
+   "TalkRoom (Background).ase": {
+    "frame": { "x": 0, "y": 0, "w": 81, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 81, "h": 80 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "TalkRoom (Blood).ase": {
+    "frame": { "x": 81, "y": 0, "w": 71, "h": 64 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 19, "w": 71, "h": 64 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "TalkRoom (Chair).ase": {
+    "frame": { "x": 236, "y": 0, "w": 14, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 51, "y": 53, "w": 14, "h": 30 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "TalkRoom (P).ase": {
+    "frame": { "x": 209, "y": 0, "w": 14, "h": 51 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 50, "y": 38, "w": 14, "h": 51 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "TalkRoom (Man1).ase": {
+    "frame": { "x": 223, "y": 0, "w": 13, "h": 51 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 32, "w": 13, "h": 51 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "TalkRoom (Table).ase": {
+    "frame": { "x": 152, "y": 0, "w": 41, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 61, "w": 41, "h": 22 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "TalkRoom (Man2).ase": {
+    "frame": { "x": 193, "y": 0, "w": 16, "h": 55 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 65, "y": 28, "w": 16, "h": 55 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   },
+   "TalkRoom (Lamp).ase": {
+    "frame": { "x": 250, "y": 0, "w": 3, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 37, "y": 7, "w": 3, "h": 14 },
+    "sourceSize": { "w": 160, "h": 90 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.8-x64",
+  "image": "Images\\TalkRoom.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1"
+ }
+}
